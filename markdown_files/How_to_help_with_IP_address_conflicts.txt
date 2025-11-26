@@ -1,0 +1,29 @@
+How to Help with IP Address Conflicts - QuickConnect
+QuickConnect Customer Support: Handling IP Address Conflicts
+IP address conflicts can disrupt a customer's ability to use the internet. This document outlines steps for identifying and resolving IP address conflicts to ensure seamless connectivity for our customers.
+Steps to Identify and Resolve IP Address Conflicts
+1. Identifying the Issue
+Listen to the customer description of the problem, such as intermittent connectivity or network errors. Common symptoms of IP conflicts include:
+Devices unable to connect to the network.
+Error messages indicating an IP conflict.
+Unexpected loss of connectivity on multiple devices.
+2. Verify the IP Address Conflict
+Guide the customer through the following steps to confirm an IP address conflict:
+Platform
+Instruction
+Windows
+Open Command Prompt: Win + R, type cmd, and press Enter.
+Type ipconfig /all and press Enter.
+Check the IP address and see if it matches the IP address of other devices on the network.
+Mac
+Open Terminal: Go to Applications > Utilities > Terminal.
+Type ifconfig and press Enter.
+Find the en0 or Wi-Fi section and check the IP address.
+Mobile (iOS/Android)
+Go to Wi-Fi settings.
+Find the connected network and look for the IP address details.
+3. Resolving IP Address Conflicts
+Once confirmed, guide the customer through the following steps to resolve the IP conflict:
+Renew the IP Address:
+Windows: Type ipconfig /release followed by ipconfig /renew in the Command Prompt.
+Mac: Go to System Preferences > Network, select the network, and click Advanced > Renew DHCP

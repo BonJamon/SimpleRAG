@@ -1,0 +1,44 @@
+Guidelines for Upgrading Network Equipment
+Guidelines for Upgrading Network Equipment
+QuickConnect is dedicated to ensuring that our customers have the best possible experience with their network equipment. This document provides a comprehensive set of guidelines for customer service agents to assist customers with upgrading their network equipment.
+1. Initial Assessment
+Confirm the customer's current equipment setup. This includes routers, modems, extenders, and switches.
+Determine the reasons for the upgrade, which may include:
+Improved performance
+Extended coverage
+Increased security
+Support for more devices
+Check the compatibility of new equipment with the customer's existing setup.
+Assess the customer's internet plan to ensure it supports the new equipment capabilities.
+2. Recommended Network Equipment
+Equipment
+Model
+Feature Highlights
+Price Range
+Router
+QuickConnect Pro XR500
+Wi-Fi 6, Advanced Security Features, Dual-Band
+$150 - $200
+Modem
+QuickConnect Modem 3000
+DOCSIS 3.1, High-Speed Broadband, Easy Setup
+$80 - $120
+Wi-Fi Extender
+QuickConnect Extend 1200
+Dual-Band, Easy Pairing, Wide Coverage
+$50 - $80
+Switch
+QuickConnect Switch 800
+8 Ports, Gigabit Ethernet, Energy Efficient
+$30 - $50
+3. Step-by-Step Upgrade Guide
+Preparing for the Upgrade
+Back up current network settings.
+Ensure you have all necessary equipment and cables.
+Read the user manuals of the new devices beforehand.
+Installing New Equipment
+Disconnect old equipment and unplug all cables.
+Connect the new modem to the cable outlet and power source.
+Attach the router to the modem using an Ethernet cable.
+Power on the modem first, wait for it to fully initialize, then power on the router.
+Connect to the routerâ€™s default Wi

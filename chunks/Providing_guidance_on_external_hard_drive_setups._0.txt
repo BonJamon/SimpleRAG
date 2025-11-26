@@ -1,0 +1,35 @@
+QuickConnect Customer Service Guide - External Hard Drive Setups
+Guidance for Setting Up External Hard Drives
+Overview
+External hard drives are popular for expanding storage, backing up important files, and transferring data between devices. This guide provides detailed instructions to assist customers with setting up their external hard drives.
+Common Customer Queries
+Query
+Solution
+The external hard drive is not recognized by my computer.
+Check the connections, try a different USB port, ensure drivers are up to date, and verify the drive's formatting.
+How do I format my external hard drive?
+Detailed steps are provided in the Formatting section below.
+Can I use the same external hard drive on both Windows and Mac?
+Yes, but you may need to format it in a file system compatible with both, such as exFAT.
+Setup Instructions
+Connecting the External Hard Drive
+Use a compatible USB cable to connect the hard drive to your computer.
+Ensure the cable is securely connected to both the drive and the computer.
+Wait for the computer to recognize the drive. This may take a few moments.
+Troubleshooting Connection Issues
+Try connecting to a different USB port on the computer.
+Use another USB cable if available.
+Restart the computer and reconnect the drive.
+Check if the drive appears in the Disk Management tool (on Windows) or the Disk Utility (on Mac).
+Formatting the External Hard Drive
+For Windows:
+Open File Explorer and locate the external hard drive.
+Right-click on the drive and select Format.
+Choose the desired file system (e.g., NTFS, exFAT) from the drop-down menu.
+Provide a name for the drive in the Volume Label field.
+Check the Quick Format option for faster formatting (optional).
+Click Start, and then OK to confirm.
+For Mac:
+Open Disk Utility from the Applications > Utilities folder.
+Select the external hard drive from the list of external drives.
+Click the Erase button at the top of the Disk Utility window.

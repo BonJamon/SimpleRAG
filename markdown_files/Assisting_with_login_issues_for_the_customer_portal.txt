@@ -1,0 +1,29 @@
+QuickConnect Customer Service - Assisting with Login Issues
+Assisting Customers with Login Issues
+Welcome to the QuickConnect customer service guide for assisting customers with login issues on the customer portal. This document will help you provide accurate and efficient support.
+Common Login Issues
+Issue
+Description
+Forgotten Password
+Customers may forget their password and need assistance with resetting it.
+Username Not Recognized
+The system does not recognize the customer's username.
+Account Locked
+Too many unsuccessful login attempts can lock the customer's account.
+Network Issues
+Connectivity problems can prevent successful login.
+Troubleshooting Steps
+Forgotten Password: Guide the customer to the "Forgot Password" link on the login page to reset their password. Ensure they check their email's spam/junk folder for the reset link.
+Username Not Recognized: Verify the correct username with the customer. It may be their email address or a unique username. Check for typos and ensure there are no extra spaces.
+Account Locked: Explain the lockout policy (e.g., a 30-minute lockout after 5 failed attempts). You may also need to manually unlock their account.
+Network Issues: Suggest checking their internet connection, disabling VPNs, or trying a different browser. If the problem persists, escalate to technical support.
+Important Tips
+Always verify the customer's identity before making any changes to their account.
+Document all actions taken in the customer's support ticket for future reference.
+Never request or record the customer's password for security reasons.
+Contacting Technical Support
+If you've followed all troubleshooting steps and the customer's login issue remains unresolved, escalate the case to technical support. Provide them with the customer's details and a summary of the steps you've taken so far.
+Resources for Customers
+Direct customers to the following resources for additional help:
+Frequently Asked Questions
+How-to Videos

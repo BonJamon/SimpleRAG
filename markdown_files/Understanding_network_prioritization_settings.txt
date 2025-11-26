@@ -1,0 +1,33 @@
+Understanding Network Prioritization Settings
+Understanding Network Prioritization Settings
+Network prioritization is a key feature that ensures your network resources are distributed efficiently, providing an optimal performance experience for critical applications and devices. This document breaks down the important aspects of network prioritization to assist customer service agents in supporting QuickConnect customers.
+What is Network Prioritization?
+Network prioritization, also known as Quality of Service (QoS), is a mechanism that manages traffic based on predefined policies to ensure high priority for essential services. This is particularly useful in scenarios where bandwidth usage must be controlled and managed effectively.
+Key Benefits:
+Enhances performance for important applications
+Reduces latency for critical operations
+Balances network load effectively
+Settings Overview
+Setting
+Description
+Implications
+High Priority
+Allocates most bandwidth resources to critical applications or devices.
+Ensures minimal latency and highest performance for applications such as VoIP or streaming.
+Medium Priority
+Distributes balanced bandwidth to applications and devices that are important but not critical.
+Maintains good performance without compromising essential services.
+Low Priority
+Assigns the least bandwidth to non-essential applications and devices.
+Limits network resource usage for tasks like large downloads or background updates.
+Common Customer Questions
+How do I adjust network prioritization settings?
+Navigate to the network settings in your QuickConnect router interface. Select the QoS menu, where you can assign priority levels to various devices and applications.
+What applications should I prioritize?
+Typically, applications such as VoIP (Voice over IP), video conferencing, and online gaming benefit the most from higher priority settings due to their need for low latency and stable connections.
+Can I see which devices are being prioritized?
+Yes, within the QoS settings, you can view a list of connected devices and their current prioritization levels. Adjustments can be made directly from this interface.
+Troubleshooting Tips
+Bandwidth Allocation Issues: If critical applications are experiencing lag, review the QoS settings to ensure they are set to high priority.
+Unbalanced Performance: If some applications are significantly slower, check the prioritization levels and adjust as needed to balance the load.
+Configuration Errors: If changes do not seem to take effect, restart the

@@ -1,0 +1,39 @@
+QuickConnect - Troubleshooting Equipment Installation Issues
+Troubleshooting Equipment Installation Issues
+Common Installation Problems
+Equipment not powering on
+Internet connection issues
+Device not recognized by network
+Cabling or connection issues
+Steps to Fix Common Issues
+1. Equipment Not Powering On
+Ensure the power cable is securely connected to both the equipment and the power source.
+Try a different power outlet.
+If using a power strip, ensure it is switched on.
+Check for any visible damage to the power cable.
+If problem persists, suggest a power adapter replacement.
+2. Internet Connection Issues
+Confirm the modem is properly connected to the internet source (coaxial cable, DSL line, etc.).
+Reset the modem by unplugging it from power for 30 seconds and then plugging it back in.
+Verify if the issue affects all connected devices or just one.
+Ensure the latest firmware is installed on the modem/router.
+If issue remains, escalate to network support team.
+3. Device Not Recognized by Network
+Check if the device is within the Wi-Fi range.
+Make sure Wi-Fi is enabled on the device.
+Verify that the correct network SSID and password are being used.
+Restart the network device (modem/router).
+Attempt to connect other devices to the network; this helps determine if the issue is with the specific device.
+4. Cabling or Connection Issues
+Inspect all cables for any physical damage or wear.
+Ensure all Ethernet cables are securely plugged in.
+Replace any damaged cables.
+If using a splitter or adapter, verify that it is functioning correctly.
+Confirm that the connected devices are compatible with each other.
+Escalation Steps
+If initial troubleshooting steps do not resolve the issue, gather detailed information about the problem.
+Record the model and serial number of the equipment involved.
+Document any error messages or unusual indicator lights.
+Escalate the case to the technical support team with all collected information for further investigation.
+Notes
+Always handle equipment with care to avoid physical damage. Ensure you follow the

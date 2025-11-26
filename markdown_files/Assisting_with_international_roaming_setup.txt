@@ -1,0 +1,37 @@
+QuickConnect Customer Service Guide: International Roaming Setup
+QuickConnect Customer Service Guide
+Assisting with International Roaming Setup
+Overview
+When customers travel abroad, they may want to use their mobile devices to make calls, send texts, and access the internet. Assisting customers with setting up international roaming is a common query. This guide provides steps to support customers with this process.
+Steps for Setting Up International Roaming
+Verify that the customer's account is eligible for international roaming.
+Ensure the customer understands the potential costs associated with international roaming.
+Guide the customer through enabling international roaming on their device.
+Confirm the device settings to ensure connectivity while abroad.
+1. Verify Account Eligibility
+Check the following:
+The customer's plan includes international roaming features.
+The customer has not exceeded any usage limits that would restrict roaming.
+2. Cost Awareness
+Make sure the customer is aware of:
+Additional fees: Inform the customer about potential additional charges for calls, texts, and data usage while roaming.
+Available packages: Suggest international packages that might help reduce costs.
+Billing cycle: Explain how the customer will be billed for their roaming usage.
+Tip: Direct customers to the QuickConnect website or app where they can view and manage their international roaming options.
+3. Enabling International Roaming on the Device
+Guide the customer with the steps specific to their device type:
+Device
+Steps
+iPhone
+Open Settings.
+Tap Cellular (or Mobile Data).
+Tap Cellular Data Options.
+Toggle on Data Roaming.
+Android
+Open Settings.
+Tap Connections.
+Tap Mobile Networks.
+Toggle on Data Roaming.
+4. Confirming Device Settings
+Ensure the following settings are properly configured:
+Network Selection: Set to automatic to allow the device to connect to available networks abroad.

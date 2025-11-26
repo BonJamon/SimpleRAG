@@ -1,0 +1,32 @@
+Understanding Roaming Charges - QuickConnect
+QuickConnect Customer Service
+Understanding Roaming Charges
+Roaming charges are fees incurred when a customer uses their mobile phone service outside their home network's coverage area. Below is detailed information to help you support customers with their questions about roaming charges.
+Common Scenarios
+Scenario
+Description
+Charges
+International Roaming
+Using mobile services while traveling abroad.
+Can be significantly higher than domestic rates.
+Domestic Roaming
+Using mobile services outside the customer's home area but within the same country.
+Usually minimal or no extra charges, depending on the plan.
+Data Roaming
+Internet usage (browsing, streaming, etc.) outside the home network.
+Data charges can be very high; some plans offer special data packages.
+Voice Roaming
+Making or receiving calls outside the home network.
+Additional per-minute charges often apply.
+SMS Roaming
+Sending or receiving text messages outside the home network.
+May incur additional charges per message.
+Tips for Reducing Roaming Charges
+Advise customers to purchase an international plan before traveling.
+Encourage the use of Wi-Fi for data services whenever possible.
+Suggest turning off data roaming in their phone settings.
+Inform about the availability of local SIM cards or travel SIM packs.
+Check if their current plan offers any special roaming packages.
+FAQs
+Q: How can customers check their roaming charges?
+A: Customers can log into their QuickConnect account online or use the QuickConnect mobile app to check their roaming charges.

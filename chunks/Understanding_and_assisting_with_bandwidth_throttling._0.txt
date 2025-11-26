@@ -1,0 +1,36 @@
+QuickConnect Customer Service Guide: Bandwidth Throttling
+QuickConnect Customer Service Guide
+Understanding and Assisting with Bandwidth Throttling
+Bandwidth throttling is a process where an Internet Service Provider (ISP) intentionally limits the internet speed of certain users or types of traffic. This can affect the customer’s experience by slowing down the internet when streaming, downloading files, or performing other online activities.
+Note: Always verify the customer’s account and network settings before concluding that throttling is the issue.
+Common Reasons for Bandwidth Throttling
+Exceeding data caps on certain plans.
+Network congestion during peak hours.
+Use of high bandwidth applications like streaming services or large file downloads.
+Fair usage policies that distribute bandwidth evenly among all users.
+How to Identify Bandwidth Throttling
+Check recent data usage on the customer's account.
+Compare the current internet speed with the plan speed. Use tools like Speedtest.
+Ask about intermittent slowdowns, especially during specific times of day.
+Verify if throttling is mentioned in the service plan or provider’s policies.
+Steps to Assist Customers
+Step
+Action
+Step 1
+Verify the customer’s current plan and check for any data cap limitations.
+Step 2
+Check for network outages or maintenance work in the customer's area.
+Step 3
+Advise the customer to run a speed test and compare the results with their plan speeds.
+Step 4
+Instruct the customer to reduce bandwidth-heavy activities during peak hours.
+Step 5
+If throttling is confirmed and significant, discuss upgrading the plan or contacting higher-level support.
+Additional Tips
+Encourage regular monitoring of data usage to avoid unexpected throttling.
+Inform customers about peak hours and suggest off-peak usage for heavy internet activities.
+Consider providing information on QuickConnect’s higher bandwidth plans and any special offers or promotions.
+Contact for Further Assistance
+If further assistance is needed, the customer should be directed to QuickConnect's technical support, which can be reached at:
+Phone: 1-800-555-1234
+Email:

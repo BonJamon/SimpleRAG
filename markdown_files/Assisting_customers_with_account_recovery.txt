@@ -1,0 +1,36 @@
+QuickConnect Customer Service Guide - Account Recovery
+QuickConnect Customer Service Guide
+Assisting Customers with Account Recovery
+Overview
+Helping customers recover their accounts is a crucial part of providing excellent customer service. This guide outlines the steps and procedures QuickConnect customer service agents should follow to assist customers effectively.
+Account Recovery Steps
+Verify Customer Identity:
+Ask for account-specific information (e.g., last bill amount, registered email).
+Check the validity of the provided information against the database.
+Password Reset:
+Guide the customer to the "Forgot Password" page on the QuickConnect website.
+Assist the customer in receiving a password reset email or SMS.
+Follow up to ensure the customer successfully resets their password.
+Unlocked Account:
+Check account status in the system to determine why the account is locked.
+Provide instructions to the customer to unlock the account.
+Confirm that the account is unlocked and accessible.
+Update Account Information:
+Help the customer update their security questions and answers.
+Assist with updating contact information (email, phone number) for account recovery.
+Additional Support:
+Escalate the issue to the technical support team if necessary.
+Provide the customer with a case number for future follow-ups.
+Common Issues and Solutions
+Issue
+Solution
+Customer cannot receive recovery email
+Guide the customer to check their spam/junk folder. Ensure that the recovery email was sent to the correct address.
+Incorrect security answers
+Verify identity through alternative questions or provide options to reset security questions.
+Account locked due to multiple failed login attempts
+Confirm identity and manually unlock the account or provide steps to unlock via the website.
+Customer forgot recovery email or phone number
+Verify identity through alternative methods and update recovery information in the system.
+Contact Information
+For further assistance, customer service agents can contact the technical support team via:

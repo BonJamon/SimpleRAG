@@ -1,0 +1,47 @@
+
+
+
+
+
+Understanding and Setting Up VLANs - QuickConnect Support
+
+
+
+Understanding and Setting Up VLANs
+Welcome to the QuickConnect Customer Support Guide. This document will help you understand what VLANs (Virtual Local Area Networks) are and how to assist customers in setting them up.
+What is a VLAN?
+A VLAN (Virtual Local Area Network) is a network protocol that allows multiple networks to run on a single physical network infrastructure. VLANs enable devices on different physical LAN segments to communicate as if they were on the same LAN. They offer improved security, better performance, and simplified network management.
+Benefits of Using VLANs
+
+Improved Network Security: VLANs allow segmentation of networks reducing the scope of threats.
+Better Network Performance: Grouping devices with similar profiles can minimize broadcast traffic.
+Simplified Network Management: Easier to manage different network segments and policies.
+Flexibility: Devices can be moved across different segments without affecting the entire network.
+
+Steps to Set Up VLANs
+Follow these steps to help customers set up VLANs:
+1. Identify VLAN Requirements
+Ask the customer the following questions to determine their VLAN requirements:
+
+What devices or departments need to be on separate VLANs?
+Are there specific security or performance requirements?
+Do they have existing network hardware that supports VLANs?
+
+2. Configure VLANs on Network Devices
+Guide the customer on how to configure VLANs on their network devices:
+
+Access the Network Switch: Log in to the management interface of the network switch.
+Create VLANs: Navigate to the VLAN configuration section and create new VLANs with specific IDs.
+Assign Ports to VLANs: Assign the necessary ports to each VLAN based on the customer’s requirements.
+
+3. Configure VLANs on Devices
+Ensure that the end-devices (computers, printers, etc.) are configured to use the correct VLANs:
+
+Static Configuration: Manually set the VLAN ID on the device's network interface.
+Dynamic Configuration: Use Dynamic Host Configuration Protocol (DHCP) options to assign VLAN settings.
+
+4. Test the VLAN Setup
+Verify that the VLANs are working as expected by performing the following tests:
+
+Ping devices within the same VLAN to check connectivity.
+Attempt to access resources restricted to particular V

@@ -1,0 +1,29 @@
+Improving Streaming Quality - QuickConnect Support
+QuickConnect Support
+Steps to Improve Streaming Quality
+Streaming quality can be affected by various factors, including network issues, device performance, and configuration settings. Below are detailed steps and solutions to help enhance streaming quality for QuickConnect customers.
+General Tips for Enhancing Streaming Quality
+Ensure you have a stable internet connection with adequate bandwidth.
+Reduce the number of devices connected to your network during streaming.
+Close any applications running in the background that may consume bandwidth.
+Consider using an Ethernet cable instead of WiFi to reduce lag and improve stability.
+Restart your router and streaming device regularly to clear any temporary issues.
+Step-by-Step Guide
+Step
+Description
+1. Check Your Internet Speed
+Run an internet speed test to ensure that you have sufficient bandwidth for streaming. QuickConnect recommends a minimum of 5 Mbps for HD streaming and 25 Mbps for 4K UHD streaming.
+2. Optimize Router Placement
+Place your router in a central location, away from electronic devices and obstructions that may interfere with the signal. Elevate the router if possible.
+3. Update Router Firmware
+Check for firmware updates on your routerâ€™s manufacturer website and install any available updates to enhance performance and security.
+4. Configure Quality of Service (QoS)
+Enable QoS settings on your router to prioritize streaming traffic. Consult your router's manual or support site for detailed instructions on configuring QoS.
+5. Adjust Streaming Settings
+Lower the streaming resolution or bitrate from the settings on the streaming platform. This may temporarily reduce picture quality but can prevent buffering.
+6. Use Wired Connections
+Whenever possible, connect your streaming device directly to the router using an Ethernet cable to ensure a stable and fast connection.
+7. Check for Interferences
+Ensure there are no devices or appliances that may cause WiFi interference, such as microwaves, cordless phones, or other electronic devices.
+8. Restart Devices
+Perform a full restart of your router, modem, and streaming device to clear any

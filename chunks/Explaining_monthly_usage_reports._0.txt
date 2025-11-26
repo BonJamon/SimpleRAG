@@ -1,0 +1,30 @@
+Customer Service Guide: Monthly Usage Reports
+QuickConnect Customer Service Guide
+Explaining Monthly Usage Reports
+Purpose: This document will help customer service agents understand how to explain monthly usage reports to QuickConnect customers.
+What is a Monthly Usage Report?
+A Monthly Usage Report is a detailed summary of a customer's telecommunications usage over a specific month. It includes data on calls, SMS, data usage, and any additional services the customer has utilized.
+Key Components of the Report
+Component
+Description
+Account Summary
+Overview of the customer's account information, including billing cycle dates, plan details, and total charges.
+Call Summary
+Breakdown of all calls made, received, and missed, including duration and cost per call.
+Data Usage
+Detailed information on data consumption, distinguishing between cellular and Wi-Fi usage (if available).
+SMS Summary
+Total number of SMS messages sent and received, including any applicable charges.
+Additional Services
+Charges and usage related to any additional services, such as international calls or roaming.
+Frequently Asked Questions
+How can I view my monthly usage report? Customers can access their monthly usage reports through the QuickConnect website or mobile app under the 'Usage' section.
+Why does my usage report show charges for services I didnâ€™t use? Verify if any third-party services might have been subscribed to inadvertently. Assist the customer in checking and disputing any discrepancies with the billing department.
+How can I minimize my data usage? Suggest the customer monitor their app usage, utilize Wi-Fi when available, and consider tweaking their phone settings to limit background data consumption.
+What should I do if I notice errors in my report? Advise the customer to contact QuickConnect customer support for a detailed review and potential rectification of any errors.
+Best Practices for Explaining Reports
+Stay Calm and Polite: Always maintain a friendly demeanor, especially if the customer is confused or frustrated.
+Break Down Information: Simplify complex details into easier-to-understand segments.
+Use Visual Aids: Guide the customer on where to look in their online report or provide sample images if necessary.
+Encourage Questions: Prompt the customer to ask questions to ensure they've fully understood their report.
+Verify Understanding: Recap key points to confirm the customer comprehends the information shared.

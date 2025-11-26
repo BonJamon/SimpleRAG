@@ -1,0 +1,32 @@
+QuickConnect Customer Service Guide
+QuickConnect Customer Service Guide
+Resolving Slow Internet Speeds
+This document provides guidelines and steps to help QuickConnect customer service agents resolve issues related to slow internet speeds encountered by customers. Follow the steps meticulously to ensure the best possible customer experience.
+Steps to Resolve Slow Internet Speeds
+Verify Current Speed:
+Ask the customer to run a speed test using a reliable service like Speedtest.net and report the results.
+Check for Outages:
+Check QuickConnect's system for any reported outages or maintenance activities that might be affecting the customer’s area.
+Restart Equipment:
+Guide the customer to power cycle their modem and router. Instruct them to unplug both devices, wait for 30 seconds, and then plug them back in.
+Check Wired Connection:
+Instruct the customer to connect their device directly to the modem via an ethernet cable to rule out router or Wi-Fi issues.
+Update Firmware and Software:
+Ensure that the customer’s modem/router firmware and their device's network drivers are up to date.
+Check for Interference:
+Advise the customer to move their router to a central location, away from potential sources of interference (e.g., microwave ovens, cordless phones).
+Run Network Diagnostics:
+Use the diagnostic tools available in QuickConnect's system to remotely check the health and performance of the customer’s network.
+Troubleshooting Tips
+In some cases, additional troubleshooting steps may be needed:
+Issue
+Suggested Action
+Multiple Devices
+Ask if multiple devices are connected and using bandwidth. Advise limiting the number of devices or scheduling heavy usage.
+Outdated Equipment
+Check if the customer’s modem/router is outdated and suggest an upgrade if necessary.
+Data Cap Reached
+Verify if the customer has reached their data cap. If so, inform them of possible solutions, such as upgrading their plan.
+Additional Notes
+If the issue persists after all steps are followed, escalate the ticket to the technical support team for further investigation.
+By adhering to these steps and guidelines, QuickConnect customer

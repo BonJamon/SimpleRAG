@@ -1,0 +1,24 @@
+Managing Guest Access to Networks
+How to Manage Guest Access to Networks
+As a customer service agent at QuickConnect, you may be required to assist customers with managing guest access to their networks. This documentation provides a step-by-step guide on how to effectively handle such queries.
+Steps to Manage Guest Access
+Login to the Router's Admin Interface: Instruct the customer to open a web browser and enter the router's IP address (commonly 192.168.1.1 or 192.168.0.1) in the address bar. They will need to enter their admin username and password.
+Access the Guest Network Settings: Once logged in, guide the customer to locate the section in the router interface labeled "Guest Network" or "Guest Access."
+Enable Guest Network: Instruct the customer to turn on or enable the guest network. This may involve simply toggling a switch or checking a box.
+Set Up Network Name (SSID) and Password: Help the customer to set a unique and recognizable name for the guest network. They should also configure a strong password to secure guest access.
+Configure Additional Settings: Based on the customer's needs, they can configure additional settings such as bandwidth limits, access duration, and restrictions on accessing the main network. Ensure they save all changes.
+Save and Test the Setup: Instruct the customer to save the settings and test the guest network connectivity by connecting a device to the guest network using the SSID and password set earlier.
+Common Issues and Troubleshooting
+Issue
+Possible Solution
+Cannot access router admin interface
+Ensure the customer is using the correct IP address and that the device is connected to the network. They should also verify the admin username and password.
+Guest network not visible
+Confirm that the guest network is enabled and the SSID broadcast is turned on. The customer may need to restart the router.
+Devices cannot connect to guest network
+Check the password is entered correctly. Ensure the router firmware is up to date. If problems persist, the customer may need to reset the router to default settings and reconfigure the guest network.
+Additional Recommendations
+Regular Updates: Advise customers to regularly check for and install firmware updates to keep their network secure and functional.
+Monitoring: Encourage customers to monitor guest network usage and adjust settings as needed to maintain network performance and security.
+Documentation: Suggest customers keep a record of their network settings including SSID, passwords, and special configurations.
+Note: Always

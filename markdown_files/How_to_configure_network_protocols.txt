@@ -1,0 +1,28 @@
+QuickConnect Customer Support - Configuring Network Protocols
+Configuring Network Protocols
+Welcome to the QuickConnect customer support guide for configuring network protocols. This document will assist you in guiding customers through the setup process.
+Step-by-Step Instructions
+Access Network Settings: Advise the customer to open their network settings on their device.
+Select Protocol Type: Guide the customer to choose the appropriate network protocol from the list. Common protocols include:
+TCP/IP: Transmission Control Protocol/Internet Protocol.
+UDP: User Datagram Protocol.
+ICMP: Internet Control Message Protocol.
+Configure Parameters: Ensure the customer enters the correct parameters such as IP address, subnet mask, gateway, and DNS servers. Use the following table for reference:
+Parameter
+Definition
+IP Address
+Unique address that identifies a device on a network.
+Subnet Mask
+Divides the IP address into the network and host addresses.
+Gateway
+Device that routes traffic from a local network to other networks.
+DNS Servers
+Servers that translate domain names to IP addresses.
+Troubleshooting Tips
+Ensure Accuracy: Double-check that the customer enters all parameters correctly.
+Restart the Router: If changes do not take effect, suggest restarting the router or modem.
+Consult ISP: If problems persist, recommend contacting the customer's Internet Service Provider for additional support.
+Contact Us
+If you encounter any issues or have questions, contact QuickConnect support at:
+Phone: 1-800-123-4567
+Email: support@quickconnect.com

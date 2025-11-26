@@ -1,0 +1,36 @@
+QuickConnect Support: Resolving Issues with Email Delivery
+Resolving Issues with Email Delivery
+Email delivery issues can be caused by a variety of factors. This guide will help customer service agents at QuickConnect resolve common problems related to email delivery.
+Common Issues and Solutions
+Issue
+Possible Causes
+Solutions
+Emails Not Received
+Incorrect email address
+Email filter settings
+Email service downtime
+Confirm the recipient's email address
+Check the spam/junk folder
+Verify email server status
+Emails Going to Spam
+Spam filters
+Email content
+Recipient's email settings
+Modify the email content
+Ask the recipient to mark the email as 'Not Spam'
+Review and update email sending practices
+Emails Delayed
+Network issues
+Server overload
+Email size
+Check network connectivity
+Contact email service provider
+Reduce the size of attachments
+Troubleshooting Steps
+Verify Email Settings: Ensure that the email client settings are correct.
+Check Connectivity: Confirm that the internet connection is stable and secure.
+Review Email Queues: Look for emails stuck in the outbox or drafts.
+Contact Support: If the issue persists, contact the email service provider for further assistance.
+Note: Always make sure that customers are using the latest version of their email client and that it is properly configured to avoid any known bugs or issues.
+Additional Resources
+Gmail Help Center

@@ -1,0 +1,36 @@
+QuickConnect | Configure DNS Settings
+How to Configure DNS Settings
+DNS (Domain Name System) settings are crucial for translating domain names into IP addresses, allowing for efficient internet browsing. This documentation will guide QuickConnect customer service agents through the steps to configure DNS settings for customers.
+Steps to Configure DNS Settings
+Access the Router's Admin Interface:
+Open a web browser and enter the router's IP address (commonly 192.168.1.1 or 192.168.0.1).
+Login using the admin credentials.
+Navigate to DNS Settings:
+Find the section labeled DNS, Network or Internet settings.
+Enter the Preferred DNS Servers:
+Locate the fields for primary and secondary DNS servers.
+Enter the desired DNS server addresses. For example:
+Provider
+Primary DNS
+Secondary DNS
+Google DNS
+8.8.8.8
+8.8.4.4
+Cloudflare DNS
+1.1.1.1
+1.0.0.1
+OpenDNS
+208.67.222.222
+208.67.220.220
+Save and Reboot:
+Save the new DNS settings.
+Reboot the router to apply changes.
+Verify New DNS Settings:
+After the router restarts, verify the new DNS settings by:
+Opening the command prompt (Windows) or terminal (Mac/Linux).
+Running the command: nslookup www.example.com
+The displayed DNS server should match the new settings.
+Troubleshooting
+Incorrect Admin Credentials: Verify the default login details from the router's manual or QuickConnect support.
+Router Interface Issues: Clear browser cache or try accessing the admin interface from a different browser or device.
+Unable to Save Settings: Ensure you
