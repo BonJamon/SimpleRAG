@@ -1,0 +1,51 @@
+QuickConnect Customer Support Guide: Setting up Automatic Bill Payments
+
+
+
+
+
+QuickConnect Customer Support Guide
+
+
+
+
+Setting up Automatic Bill Payments
+Automatic bill payments provide convenience and ensure that customers' payments are always made on time. Here’s how to guide a customer through setting up automatic bill payments with QuickConnect.
+Steps to Set Up Automatic Bill Payments:
+
+Log in to the QuickConnect customer portal at https://www.quickconnect.com/portal.
+Navigate to the "Billing" section from the main menu.
+Select "Payment Methods" from the dropdown menu.
+Under "Automatic Payments", click on "Set Up Automatic Payments".
+Enter the required billing information including bank account or credit card details.
+Review the terms and conditions and check the box to agree.
+Click on "Submit" to complete the setup process.
+
+
+Note: Customers should ensure that their payment method is up to date to avoid any disruptions in the automatic billing process.
+
+Common Issues and Solutions:
+
+
+
+Issue
+Solution
+
+
+
+
+Payment Method Declined
+Verify that the payment information is correct and that there are sufficient funds or credit available.
+
+
+Unable to Log In
+Ensure that the customer is using the correct username and password. If needed, guide them through the password reset process.
+
+
+Automatic Payment Not Processing
+Check if there are any holds or issues on the customer’s account. Ensure that their payment method details are up to date.
+
+
+
+Contact Support
+If the customer continues to experience issues, please have them

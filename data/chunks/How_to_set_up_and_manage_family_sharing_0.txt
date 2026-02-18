@@ -1,0 +1,65 @@
+QuickConnect: Setting Up and Managing Family Sharing
+
+
+
+
+How to Set Up and Manage Family Sharing
+Step-by-Step Guide
+
+Step 1: Create a Family Group
+
+Log in to your QuickConnect account on the website or mobile app.
+Go to the 'Family Sharing' section under 'Account Settings.'
+Click on 'Create Family Group.'
+Follow the prompts to name your family group and add an optional family photo.
+
+
+
+Step 2: Invite Family Members
+
+In the 'Family Sharing' section, select 'Add Family Member.'
+Enter the email addresses or phone numbers of the family members you want to invite.
+Add a personalized message if desired.
+Send the invitations. Your family members will receive a notification to join your Family Group.
+
+
+
+Step 3: Manage Shared Content
+
+Go to the 'Shared Content' section under 'Family Sharing.'
+Select the types of content you want to share with your family group (e.g., data plans, app subscriptions).
+Adjust permissions as necessary for each family member.
+
+
+Frequently Asked Questions
+
+Can I remove a family member from the group?
+Yes, as the Family Organizer, you can remove members. Go to 'Family Sharing,' select the member you want to remove, and click on 'Remove from Family Group.'
+
+
+Is there a limit to the number of family members?
+You can add up to 6 members (including yourself) to your Family Group.
+
+
+Will family members have access to my purchase history?
+No, family members will not have access to your individual purchase history; they will only share access to purchased items you're allowed to share.
+
+Support and Contact
+
+
+
+Support Type
+Contact Details
+Availability
+
+
+
+
+Email Support
+support@quickconnect.com
+24/7
+
+
+Phone Support
++1 800 123 4567
+9 AM - 6 PM (Mon - Fri)

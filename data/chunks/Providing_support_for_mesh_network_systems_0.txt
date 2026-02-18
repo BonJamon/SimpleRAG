@@ -1,0 +1,73 @@
+Support Guide for Mesh Network Systems
+
+
+
+
+Support Guide for Mesh Network Systems
+Welcome to the support documentation for mesh network systems! This guide is designed to help customer service agents efficiently address customer queries related to mesh networks. Follow the instructions and use the resources provided below to offer the best support possible.
+Introduction to Mesh Networks
+Mesh networks improve Wi-Fi coverage and reliability by using multiple interconnected devices known as nodes. These nodes create a seamless network that can cover larger areas compared to traditional routers.
+Key Features of Mesh Networks
+
+Seamless Coverage: Eliminates dead zones by covering every corner of the home or office.
+Scalability: Easy to add more nodes to extend the network as needed.
+Reliability: Multiple nodes ensure consistent and reliable connectivity.
+Single Network Name: One SSID for the entire network, providing a seamless connection experience.
+
+Common Customer Queries and Solutions
+
+
+
+Query
+Solution
+
+
+
+
+How do I set up my mesh network?
+
+
+Download the mesh network app for your specific brand (e.g., Google WiFi, Netgear Orbi).
+Follow the in-app instructions to connect the primary node to your modem.
+Add additional nodes by scanning the QR code or entering the node details in the app.
+Place nodes strategically for optimal coverage and wait for them to sync.
+
+
+
+
+How do I fix connectivity issues?
+
+
+Restart the primary node and modem.
+Ensure nodes are within range of each other.
+Update firmware through the mesh network app.
+Check for interference from other devices or obstacles.
+
+
+
+
+How can I add more nodes to my network?
+
+
+Open the mesh network app.
+Select the option to add a new node.
+Follow the in-app instructions to complete the setup.
+
+
+
+
+How do I manage devices connected to my mesh network?
+
+
+Open the mesh network app.
+Navigate to the device management section.
+View connected devices and manage their settings (e.g., prioritize bandwidth, block devices).
+
+
+
+
+
+Advanced Support
+If customers face issues beyond basic troubleshooting, you can guide them through advanced support options:
+
+Contact

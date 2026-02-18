@@ -1,0 +1,61 @@
+Understanding Upload and Download Speeds - QuickConnect Customer Support
+
+
+
+Understanding Upload and Download Speeds
+As a QuickConnect customer support agent, it’s essential to help customers understand the differences between upload and download speeds, how they impact Internet usage, and why these speeds may vary.
+Definitions
+
+
+Term
+Definition
+
+
+Download Speed
+The rate at which data is transferred from the Internet to the user's device. Measured in megabits per second (Mbps).
+
+
+Upload Speed
+The rate at which data is transferred from the user's device to the Internet. Measured in megabits per second (Mbps).
+
+
+Key Differences
+
+Primary Use: Download speeds are typically used for activities like streaming videos, downloading files, and browsing websites, whereas upload speeds are important for sending emails, video calls, and uploading content to the cloud.
+Common Ratios: Download speeds are usually higher than upload speeds because most consumer Internet usage relies on downloading data. Typical consumer plans might have download speeds that are significantly higher than upload speeds. For example, a plan might offer 100Mbps download and 10Mbps upload.
+Customer Impact: Customers may notice slower upload speeds when trying to share large files, participate in HD video calls, or live stream. It’s important to set correct expectations and suggest plans suited for their needs.
+
+Examples
+
+
+Activity
+Speed Type
+Explanation
+
+
+Streaming a 4K Movie
+Download
+High download speed ensures smooth playback without buffering.
+
+
+Uploading a Youtube Video
+Upload
+High upload speed makes uploading large video files faster.
+
+
+Video Conferencing (Zoom/Teams)
+Both
+Requires good upload speed for clear video upsteam and download speed for clear video downstream.
+
+
+Troubleshooting Tips
+
+Verify the customer's current speed by having them perform a speed test.
+Check for any network congestion or usage spikes that may affect speed.
+Ensure the customer's router and modem are properly configured and up to date.
+Advise customers on ways to optimize their network, such as reducing the number of connected devices.
+
+Additional Resources
+
+QuickConnect Speed Test
+Customer Support Portal

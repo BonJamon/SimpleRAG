@@ -1,0 +1,71 @@
+
+
+
+
+
+Guidelines for Installing Network Extenders - QuickConnect
+
+
+
+Guidelines for Installing Network Extenders
+Overview
+Network extenders, also known as Wi-Fi boosters or repeaters, are devices designed to extend the coverage area of your wireless network. They function by receiving the existing Wi-Fi signal, amplifying it, and then transmitting the boosted signal. This document provides step-by-step guidelines to assist customers in installing network extenders effectively.
+Preparation
+
+Ensure you have your network extender device and its power adapter.
+Have your Wi-Fi network name (SSID) and password handy.
+Download the manufacturer's installation app if available (e.g., TP-Link Tether, Netgear Nighthawk).
+Identify a location approximately midway between your router and the area with weak signal coverage.
+
+Installation Steps
+
+
+Step
+Description
+
+
+Step 1
+Plug in the Extender: Connect the network extender to a power outlet.
+
+
+Step 2
+Power On: Turn on the device and wait for the power LED to become stable.
+
+
+Step 3
+Connect to Extender Network:
+
+Using a computer or mobile device, connect to the Wi-Fi network emitted by the extender (usually named something like "EXTENDERNAME_SETUP").
+Open a web browser and enter the IP address provided in the manual (e.g., 192.168.1.1) or use the mobile app.
+
+
+
+
+Step 4
+Configure Extender:
+
+Follow the on-screen instructions to select your existing Wi-Fi network.
+Enter your Wi-Fi password to connect the extender to your network.
+Finalize the setup by assigning a name to the extended network, if required.
+
+
+
+
+Step 5
+Positioning: Place the extender in its optimal position for maximum coverage.
+
+
+Step 6
+Test Connection: Connect a device to the extended network and verify the performance improvements.
+
+
+Troubleshooting Tips
+
+If the extender isn’t connecting, try resetting the device and rerunning the setup process.
+Ensure the extender is placed within range of the main router signal.
+Check for firmware updates for the extender as they may resolve connectivity issues.
+Move the extender closer to the router if performance issues persist.
+Ensure that no significant obstructions are blocking the extender's signal.
+
+Contact Support
+If you require additional assistance, please contact QuickConnect customer support

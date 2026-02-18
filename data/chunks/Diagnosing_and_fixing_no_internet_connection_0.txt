@@ -1,0 +1,66 @@
+QuickConnect: Diagnosing and Fixing No Internet Connection
+
+
+
+QuickConnect Customer Support
+Diagnosing and Fixing No Internet Connection
+As a QuickConnect customer service agent, your goal is to help customers troubleshoot and resolve issues related to no internet connection. Follow the steps outlined below to diagnose and fix this problem effectively.
+Step-by-Step Guide
+
+
+Initial Check:
+
+Ask the customer if their modem and router are powered on.
+Ensure that all cables are securely connected.
+
+
+Check for Outages:
+
+Verify if there is an ongoing outage in the customer's area by checking the QuickConnect outage map or internal system.
+
+
+Network Restart:
+
+Instruct the customer to power cycle their modem and router:
+
+                    
+Turn off both the modem and router.
+Wait for 30 seconds.
+Turn the modem back on and wait for it to fully initialize.
+Turn the router back on.
+
+
+
+
+Check Devices:
+
+Determine if the issue is affecting all devices or a specific device.
+Ask the customer to connect a computer directly to the modem using an Ethernet cable to see if the issue persists.
+
+
+IP and DNS Settings:
+
+Guide the customer to check their IP and DNS settings:
+
+                    
+On Windows: Go to Network and Sharing Center > Change adapter settings > Right-click on the network connection > Properties > IPV4 > Properties.
+On macOS: Apple menu > System Preferences > Network > Select the connection > Advanced > TCP/IP tab.
+
+
+Ensure the IP is set to "Obtain an IP address automatically" and DNS is set to "Obtain DNS server address automatically".
+
+
+Run Diagnostics:
+
+For Windows: Instruct the customer to run the Network Troubleshooter by navigating to Settings > Network & Internet > Status > Network troubleshooter.
+For macOS: Guide the customer to use the built-in network diagnostics tool accessible from the Network preferences.
+
+
+Modem Factory Reset:
+
+If the issue persists, instruct the customer on how to perform a factory reset of the modem:
+
+                    
+Locate the reset button on the modem.
+Press and hold the button for 10-15 seconds.
+Allow the modem to reset and reinitialize.

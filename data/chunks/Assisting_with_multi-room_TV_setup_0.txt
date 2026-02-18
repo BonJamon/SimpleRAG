@@ -1,0 +1,64 @@
+Assisting with Multi-Room TV Setup
+
+
+
+Assisting with Multi-Room TV Setup
+Introduction
+Multi-room TV setup allows customers to watch television in multiple rooms using a specific configuration. This guide will help you assist customers in setting up and troubleshooting their multi-room TV systems.
+Basic Requirements
+
+One primary TV (main box)
+One or more additional TVs (secondary boxes)
+QuickConnect multi-room TV service subscription
+Stable internet connection
+HDMI cables for each TV
+Power outlets near each TV
+
+Setup Procedure
+Follow these steps to assist customers in setting up their multi-room TV system:
+
+Ensure all equipment is available: Check that the customer has all the necessary equipment listed above.
+Connect the main TV:
+
+Plug the main box into the power outlet.
+Connect the main box to the main TV using an HDMI cable.
+Ensure the main box is connected to the internet via Ethernet or Wi-Fi.
+
+
+Set up the secondary TVs:
+
+Plug each secondary box into a power outlet.
+Connect each secondary box to its respective TV using HDMI cables.
+Ensure each secondary box is connected to the internet.
+
+
+Activate the multi-room feature:
+
+Turn on the main TV and follow the on-screen instructions to complete the setup.
+Repeat this process for each secondary TV.
+
+
+Test the setup: Ensure each TV is functioning correctly and can access the service. Make sure all TVs are synchronized and can stream concurrently.
+
+Troubleshooting Tips
+If the customer encounters issues, follow these troubleshooting tips:
+
+
+Issue
+Solution
+
+
+No signal on secondary TV
+Ensure the HDMI cable is properly connected and the TV is set to the correct input source.
+
+
+Secondary TV cannot connect to the internet
+Check the Wi-Fi or Ethernet connection and ensure the box is within range of the router.
+
+
+Synchronization issues between TVs
+Restart all boxes and routers, and make sure all boxes are up to date with the latest firmware.
+
+
+
+Note: If the customer

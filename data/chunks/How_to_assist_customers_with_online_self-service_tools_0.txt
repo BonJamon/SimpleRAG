@@ -1,0 +1,58 @@
+How to Assist Customers with Online Self-Service Tools
+
+
+
+How to Assist Customers with Online Self-Service Tools
+QuickConnect provides a range of online self-service tools designed to allow customers to manage their accounts, troubleshoot issues, and more. As a customer service agent, it’s essential to guide customers on how to effectively use these tools.
+1. Key Online Self-Service Tools
+
+
+
+Tool Name
+Description
+Common Uses
+
+
+
+
+MyAccount
+An online portal for customers to view and manage their account details
+Checking balance, updating personal information, reviewing bills
+
+
+Speed Test
+A tool to test and diagnose internet connection speeds
+Identifying slow internet issues, optimizing network settings
+
+
+Outage Map
+An interactive map showing current service outages
+Checking the status of service in local areas, reporting outages
+
+
+
+2. Guiding Customers Through MyAccount
+
+Login and Registration: Direct customers to quickconnect.com/myaccount. If they do not have an account, guide them through the registration process by clicking 'Sign Up'.
+Viewing Account Details: Upon logging in, customers can view their account details, usage history, and billing information.
+Updating Information: Encourage customers to update their personal information by navigating to 'Profile' and selecting 'Edit'. Ensure they save changes after updating.
+
+3. Using the Speed Test Tool
+
+Access the tool at quickconnect.com/speedtest.
+Recommend that customers connect their device directly to the modem via an Ethernet cable for the most accurate results.
+Instruct customers to click "Start Test" and wait for the results. They can see their download and upload speeds and some basic diagnostics.
+If issues are detected, suggest restarting the modem and running the test again.
+
+4. Checking the Outage Map
+
+Navigate to the Outage Map at quickconnect.com/outagemap.
+Customers can enter their address or ZIP code to check for any reported outages in their area.
+If there is an ongoing outage, the map will provide an estimated time of resolution.
+For unreported issues, customers can use the map to report a new outage by clicking 'Report Outage'.
+
+5. Benefits of Using Online Self-Service Tools
+
+Convenience: Customers can manage their accounts anytime without needing to call customer service.
+Speed: Common issues and tasks can be resolved more quickly through self-service tools.
+Transparency: Tools like the Outage Map provide real-time information about service issues and resolutions.

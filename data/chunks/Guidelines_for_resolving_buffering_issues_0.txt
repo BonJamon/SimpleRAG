@@ -1,0 +1,71 @@
+Guidelines for Resolving Buffering Issues
+
+
+
+
+Guidelines for Resolving Buffering Issues
+Buffering issues can be frustrating for customers, especially when they are trying to stream videos or conduct important online activities. This guide provides step-by-step instructions to help customer service agents troubleshoot and resolve buffering issues effectively.
+Common Causes of Buffering
+
+Poor internet connection
+High network traffic
+Outdated software or hardware
+Network interference
+ISP throttling
+
+Troubleshooting Steps
+
+Check Internet Speed
+Ensure that the customer's internet speed meets the required threshold for their activities.
+
+Use online speed test tools (e.g., Speedtest by Ookla).
+Recommend higher-speed plans if speeds are insufficient.
+
+
+Reduce Network Traffic
+Minimize the number of devices and applications using the network.
+
+Suggest disconnecting unused devices.
+Close bandwidth-heavy applications such as file downloads, online backups, etc.
+
+
+Restart Devices
+Restart the modem, router, and the device experiencing buffering.
+
+Unplug each device, wait 30 seconds, then plug them back in.
+
+
+Update Software and Hardware
+Ensure that the customer's device and all relevant software are up to date.
+
+Check for firmware updates for the router.
+Update the streaming app or browser.
+
+
+Relocate Equipment
+Move the router to a central location or closer to the device experiencing issues.
+
+Avoid placing the router near thick walls or electronic devices that might cause interference.
+
+
+Check for Throttling
+Confirm if the customer's ISP is throttling the connection.
+
+Contact the ISP for information or suggest the customer upgrade their service plan.
+
+
+Contact Technical Support
+If the issue persists, escalate the problem to QuickConnect's technical support team.
+
+Provide detailed information about the steps already taken.
+
+
+
+Reference Table for Internet Speed Requirements
+
+
+Activity
+Minimum Required Speed
+
+
+Streaming SD

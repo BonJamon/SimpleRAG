@@ -1,0 +1,85 @@
+QuickConnect: How to Interpret Network Status Lights
+
+
+
+
+QuickConnect Customer Support
+How to Interpret Network Status Lights
+
+
+Overview
+Network status lights on modems and routers can provide valuable information about the device's current status and connection health. This guide will help you understand and interpret these status lights to troubleshoot connectivity issues effectively.
+
+
+Common Status Lights and Their Meanings
+
+
+Light
+Color
+Status
+Description
+
+
+Power
+Green
+On
+The device is powered on and functioning normally.
+
+
+Power
+Red
+On
+There's a hardware issue or the device is malfunctioning.
+
+
+Internet
+Green
+Blinking
+Data is being transmitted or received.
+
+
+Internet
+Green
+Stable
+Connected to the internet successfully.
+
+
+Internet
+Red
+Stable or Blinking
+Failed connection to the internet.
+
+
+Wi-Fi
+Green
+Blinking
+Wireless data is being transmitted or received.
+
+
+Wi-Fi
+Green
+Stable
+Wi-Fi is enabled and functioning correctly.
+
+
+LAN (Ethernet)
+Green
+Blinking
+Data is being transmitted or received through a wired connection.
+
+
+LAN (Ethernet)
+Green
+Stable
+Established connection through an Ethernet cable.
+
+
+
+
+Troubleshooting Tips
+
+Make sure all cables are securely connected.
+Restart the modem or router by unplugging it, waiting 30 seconds, and plugging it back in.
+Check your ISP's website or contact them directly to see if there is an outage in your area.
+If the power light is red, try plugging the device into a different power outlet.
+For persistent internet

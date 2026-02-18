@@ -1,0 +1,82 @@
+QuickConnect Customer Support - Troubleshooting Video Conferencing Tools
+
+
+
+QuickConnect Customer Support Guide
+Troubleshooting Video Conferencing Tools
+This guide will help customer service agents troubleshoot common issues customers may encounter with video conferencing tools such as Zoom, Microsoft Teams, and Google Meet.
+Common Issues
+
+Audio Problems
+Video Problems
+Connection Issues
+Screen Sharing Problems
+
+Step-by-Step Troubleshooting
+
+
+
+Issue
+Steps
+
+
+
+
+Audio Problems
+
+
+Ensure the microphone and speakers are properly connected.
+Check audio settings in the video conferencing tool.
+Make sure the correct audio device is selected.
+Test audio using the built-in test feature.
+Update audio drivers on the customer’s device.
+Restart the conferencing application.
+
+
+
+
+Video Problems
+
+
+Check if the camera is properly connected and not covered.
+Ensure the correct camera is selected in the settings.
+Test the camera with another application.
+Update the camera drivers.
+Ensure the customer has granted the necessary permissions to the conferencing tool.
+Restart the application.
+
+
+
+
+Connection Issues
+
+
+Verify the internet connection is stable.
+Check for network issues or outages.
+Restart the router or modem.
+Close other bandwidth-intensive applications.
+Connect using a wired connection if possible.
+Update the conferencing application to the latest version.
+
+
+
+
+Screen Sharing Problems
+
+
+Ensure the screen sharing feature is enabled in the settings.
+Verify that the appropriate screen or application window is selected.
+Check permissions to allow screen sharing.
+Close other applications that might interfere with screen sharing.
+Update the conferencing tool and graphics drivers.
+Restart the application.
+
+
+
+
+
+Additional Tips
+
+Ensure the customer uses the latest version of the video conferencing tool.
+Advise the customer to use a headset for better audio quality.
+Keep an eye on system

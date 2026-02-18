@@ -1,0 +1,50 @@
+QuickConnect Customer Service: VoIP Setup Guide
+
+
+
+
+QuickConnect Customer Service: VoIP Setup Guide
+Welcome to the comprehensive guide on assisting customers with VoIP (Voice over Internet Protocol) setup. This document will provide detailed steps and tips to help you support our customers efficiently.
+1. Pre-Setup Checklist
+
+Ensure the customer has a stable internet connection.
+Verify the customer has a compatible VoIP phone or adapter.
+Have the customer's QuickConnect account information ready.
+Ensure that the customer's router and modem are functioning correctly.
+Check if the necessary cables and connectors are available.
+
+2. Setting Up VoIP Hardware
+2.1 Connecting the VoIP Phone
+
+Plug the Ethernet cable into the Ethernet port on the VoIP phone.
+Connect the other end of the Ethernet cable to an available LAN port on the customer's router.
+Connect the power adapter to the VoIP phone and plug it into a power outlet.
+Wait for the VoIP phone to initialize and display readiness for configuration.
+
+2.2 Using a VoIP Adapter
+
+Connect one end of the Ethernet cable to the WAN port of the VoIP adapter.
+Connect the other end of the Ethernet cable to an available LAN port on the customer's router.
+Plug the VoIP phone into the VoIP adapter using a telephone cable.
+Connect the power adapter to the VoIP adapter and plug it into a power outlet.
+Wait for the VoIP adapter to initialize and display readiness for configuration.
+
+3. Configuring VoIP Settings
+3.1 Accessing the VoIP Configuration Interface
+
+Open a web browser and enter the IP address of the VoIP phone or adapter. This information is usually provided in the device's manual.
+Log in using the default username and password. Common defaults are often "admin" for both fields.
+
+3.2 Entering SIP Account Details
+
+Navigate to the SIP settings section of the configuration interface.
+Enter the following details provided by QuickConnect:
+
+            
+SIP Server: sip.quickconnect.com
+SIP Username: [Customer's QuickConnect Username]
+SIP Password: [Customer's QuickConnect Password]
+Outbound Proxy: proxy.quickconnect.com (if applicable)
+
+
+Save the changes and restart the device if prompted.

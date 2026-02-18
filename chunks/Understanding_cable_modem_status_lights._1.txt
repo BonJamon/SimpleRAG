@@ -1,7 +1,0 @@
-�s a known outage in the area. If the online light remains off, try resetting the modem to factory settings (refer to the modem’s manual for instructions).
-No LAN/WAN Light: Ensure the Ethernet cable is correctly plugged in at both ends. Confirm that the connected device (e.g., a PC or router) is turned on and functioning properly.
-Contacting Technical Support
-If the troubleshooting steps do not resolve the issue, guide the customer to contact QuickConnect's technical support for further assistance. Make sure they have the following information ready:
-Modem model and serial number.
-A detailed description of the issue.
-Status light information.

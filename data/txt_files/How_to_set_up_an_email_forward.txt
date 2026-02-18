@@ -1,0 +1,70 @@
+
+
+
+
+
+QuickConnect Customer Support - Setting Up Email Forwarding
+
+
+
+
+How to Set Up Email Forwarding
+This document provides a step-by-step guide to assist QuickConnect customers in setting up email forwarding. Follow these instructions to ensure that all your emails are forwarded to another email address of your choice.
+Step-by-Step Instructions
+
+
+Log into your QuickConnect Email Account
+
+Open your web browser and go to the QuickConnect email login page.
+Enter your email address and password, then click "Sign In."
+
+
+
+Navigate to Settings
+
+Once logged in, locate and click on the "Settings" gear icon, usually found at the top-right corner of the webpage.
+In the drop-down menu, select "See All Settings."
+
+
+
+Access the Forwarding and POP/IMAP Tab
+
+In the settings menu, click on the "Forwarding and POP/IMAP" tab.
+
+
+
+Add a Forwarding Address
+
+Click the "Add a forwarding address" button.
+Enter the email address you want to forward your emails to in the dialog box that appears, and then click "Next."
+A verification email will be sent to the specified email address; click "Proceed" to initiate this.
+
+
+
+Verify the Forwarding Address
+
+Log into the email account where you want to receive the forwarded emails.
+Open the verification email from QuickConnect and click on the verification link provided within.
+Return to your QuickConnect email settings where you initially added the forwarding address.
+
+
+
+Enable Email Forwarding
+
+After verifying, go to the "Forwarding and POP/IMAP" tab again.
+Select the "Forward a copy of incoming mail to" option and choose the newly added email address.
+Determine what you want QuickConnect to do with the original emails (e.g., keep QuickConnect's copy in the Inbox, archive, or delete it).
+Click "Save Changes" at the bottom of the settings page to apply the changes.
+
+
+
+Troubleshooting
+If you encounter issues while setting up email forwarding, consider the following tips:
+
+Ensure you have access to the forwarding email address to complete the verification process.
+Double-check that you entered the forwarding email address correctly.
+Make sure there are no filters in place that might affect email forwarding.
+Contact QuickConnect customer support if you continue to have issues or need further assistance.
+
+Contact Support
+    <

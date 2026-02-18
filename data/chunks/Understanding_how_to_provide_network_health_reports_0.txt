@@ -1,0 +1,53 @@
+QuickConnect Customer Service Documentation
+
+
+
+QuickConnect Customer Service Documentation
+Understanding How to Provide Network Health Reports
+Introduction
+Network Health Reports offer crucial insights into the performance and stability of a customer's telecommunications network. These reports help detect issues early, ensuring optimal network service performance. This guide will help you understand how to provide these reports effectively.
+Steps to Generate a Network Health Report
+
+Access the Customer’s Account: Login to the QuickConnect admin dashboard and navigate to the customer's account details.
+Navigate to the Network Health Section: Click on the 'Network Health' tab to access the network performance analytics.
+Select the Time Frame: Choose the time interval for which the report needs to be generated (e.g., last 24 hours, last week, last month).
+Generate the Report: Click on the 'Generate Report' button. This may take a few moments depending on the data volume.
+Download or Email the Report: Once generated, the report can be downloaded as a PDF or sent directly to the customer's email.
+
+Components of a Network Health Report
+A Network Health Report typically includes the following components:
+
+Uptime Statistics: A summary of the network’s uptime and any periods of downtime.
+Latency Metrics: Details on network latency, including average, maximum, and minimum values over the selected period.
+Packet Loss Data: Information on any packet loss encountered during the report timeframe.
+Error Rates: Data regarding any errors or faults within the network.
+Traffic Analysis: Insights into network traffic patterns, including data usage trends.
+
+Considerations for Interpretations
+When reviewing and discussing Network Health Reports with customers, keep the following considerations in mind:
+
+Consistency: Point out trends and consistent performance issues that may require a long-term solution.
+Severity: Highlight any critical issues or anomalies that might indicate immediate attention.
+Impacts: Explain how particular metrics (like high latency or packet loss) may impact the customer’s network performance.
+
+Sample Network Health Report Summary
+
+
+Metric
+Description
+Value
+
+
+Uptime
+Percentage of the time the network was operational in the selected time frame.
+99.8%
+
+
+Latency
+Average, maximum, and minimum network latency in milliseconds.
+45ms (avg)
+
+
+Packet Loss
+Percentage of packets lost during transmission.
+0.02%
