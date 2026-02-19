@@ -1,5 +1,14 @@
-Simple RAG solution in order to answer customer questions based on QA documents. 
-Utilizes Azure Foundry models for embedding and generative models and Azure Search as vector database.
+Basic QA utilizing RAG on technical support documentation. Based on FAISS, langchain and ragas for evaluation.
 
-preprocessing_to_index.inpynb: Contains data extraction, chunking, index creation
-query.inpynb: Contains retrieval and query answering
+Current performances on llm-generated test data using ragas:
+Precision@3         |0.4
+Recall@3            |0.83
+MRR                 |1.05
+faithfullness       |0.88
+BLEU                |0.28
+ROUGE-1             |0.62
+ROUGE-L             |0.53
+response_time       |3.2s
+time_to_first_token |0.06s
+
+
