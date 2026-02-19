@@ -1,6 +1,6 @@
 Basic QA utilizing RAG on technical support documentation. Based on FAISS, langchain and ragas for evaluation.
 
-Current performances on llm-generated test data using ragas:
+Current performances on llm-generated test data using ragas:  
 Precision@3         |0.4  
 Recall@3            |0.83  
 MRR                 |1.05  
