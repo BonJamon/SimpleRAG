@@ -1,0 +1,34 @@
+[project]
+name = "testrag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "asyncio>=4.0.0",
+    "bs4>=0.0.2",
+    "evaluate>=0.4.6",
+    "faiss-cpu>=1.13.2",
+    "fastapi>=0.129.0",
+    "jupyter>=1.1.1",
+    "langchain>=1.2.10",
+    "langchain-community>=0.4.1",
+    "langchain-openai>=1.1.9",
+    "langchain-text-splitters>=1.1.0",
+    "nltk>=3.9.2",
+    "notebook>=7.5.3",
+    "pytest-asyncio>=1.3.0",
+    "python-dotenv>=1.2.1",
+    "ragas>=0.4.3",
+    "rapidfuzz>=3.14.3",
+    "rouge-score>=0.1.2",
+    "sentence-transformers>=5.2.3",
+    "torch>=2.10.0",
+    "transformers>=5.2.0",
+    "uvicorn>=0.41.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+]

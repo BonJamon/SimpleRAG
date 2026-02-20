@@ -1,0 +1,26 @@
+Inform the customer of the lockout reason (e.g., multiple failed login attempts).
+Initiate the unlock procedure by verifying security questions or OTP.
+Reset the password if necessary and advise the customer to use the new credentials.
+
+Step 4: Connectivity Checks
+Ensure that the customer has a stable internet connection. Ask them to perform the following:
+
+Restart their device.
+Check Wi-Fi router settings or network cables.
+Attempt to login using a different device or browser.
+
+Step 5: Escalation Procedures
+If the issue persists, escalate the situation to the technical support team with the necessary details:
+
+Customer’s account information
+Error messages received
+Steps already taken during troubleshooting
+
+Additional Resources
+For further assistance, refer to the following resources:
+
+QuickConnect Support Portal
+Network Login Troubleshooting Guide
+Account Management Policies
+
+Always ensure a professional and courteous interaction with every customer and resolve their issues efficiently. Thank you for your commitment to excellent customer service at QuickConnect!

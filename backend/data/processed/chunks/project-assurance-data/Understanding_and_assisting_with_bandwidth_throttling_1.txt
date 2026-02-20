@@ -1,0 +1,42 @@
+Steps to Assist Customers
+
+
+
+Step
+Action
+
+
+
+
+Step 1
+Verify the customer’s current plan and check for any data cap limitations.
+
+
+Step 2
+Check for network outages or maintenance work in the customer's area.
+
+
+Step 3
+Advise the customer to run a speed test and compare the results with their plan speeds.
+
+
+Step 4
+Instruct the customer to reduce bandwidth-heavy activities during peak hours.
+
+
+Step 5
+If throttling is confirmed and significant, discuss upgrading the plan or contacting higher-level support.
+
+
+
+Additional Tips
+
+Encourage regular monitoring of data usage to avoid unexpected throttling.
+Inform customers about peak hours and suggest off-peak usage for heavy internet activities.
+Consider providing information on QuickConnect’s higher bandwidth plans and any special offers or promotions.
+
+Contact for Further Assistance
+If further assistance is needed, the customer should be directed to QuickConnect's technical support, which can be reached at:
+
+Phone: 1-800-555-1234
+Email:

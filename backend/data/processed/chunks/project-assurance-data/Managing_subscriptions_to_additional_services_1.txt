@@ -1,0 +1,34 @@
+Canceling a Subscription
+
+Log in to the customer management portal.
+Navigate to the customer's account page.
+Select the "Manage Services" option.
+Find the service to be canceled and click on "Cancel".
+Confirm the cancellation and ensure any necessary refund or billing adjustments are processed.
+Inform the customer of the cancellation and any further actions they need to take.
+
+Commonly Asked Questions
+
+
+Question
+Answer
+
+
+How long does it take for new services to be activated?
+Most additional services are activated within 24 hours. We will notify the customer once the service is live.
+
+
+Are there any charges for modifying or canceling a service?
+Some services may have modification or cancellation fees. Please check the specific service terms and inform the customer accordingly.
+
+
+Can customers manage their subscriptions online?
+Yes, customers can manage subscriptions through their QuickConnect online account. However, they may prefer calling customer service for more complex changes.
+
+
+Contact Information
+If you need further assistance or encounter any issues while managing subscriptions, please contact our Support Helpdesk:
+
+Phone: 1-800-123-4567
+Email: support@quickconnect.com
+Live Chat: Available on the QuickConnect employee portal

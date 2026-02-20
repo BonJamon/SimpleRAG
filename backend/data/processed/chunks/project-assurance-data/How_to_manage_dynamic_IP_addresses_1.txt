@@ -1,0 +1,32 @@
+Locate the DHCP Settings: Navigate to the appropriate section often labeled as "Network Settings," "LAN Setup," or "DHCP Settings." The terminology may vary depending on the router.
+Adjust the IP Address Range: Here, users can often specify the range of IP addresses that the DHCP server can assign. Ensure they know to:
+
+                
+Set an appropriate range to include enough IP addresses for their network.
+Avoid overlapping with static IP addresses to prevent conflicts.
+
+
+Reserve IP Addresses: If a customer wants certain devices to always receive the same IP address, guide them to create DHCP reservations which map specific IP addresses to the devices' MAC addresses.
+Save and Reboot: After making changes, instruct the customer to save the settings and reboot the router to apply the new configuration.
+
+
+
+Troubleshooting Common Issues
+
+
+
+Issue
+Solution
+
+
+
+
+Device not obtaining an IP address
+Ensure the device’s network settings are set to obtain an IP address automatically. Restart the device and the router.
+
+
+IP address conflict
+Check for overlapping IP address ranges. Make sure that no static IP addresses fall within the DHCP range.
+
+
+Slow network performance

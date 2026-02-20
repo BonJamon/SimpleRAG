@@ -1,0 +1,27 @@
+Port Number (POP3)
+995 (SSL)
+
+
+Outgoing Mail Server
+smtp.quickconnect.com
+
+
+Port Number (SMTP)
+465 (SSL) or 587 (TLS)
+
+
+Use Authentication
+Yes (Use the same password as the incoming mail server)
+
+
+
+3. Testing the Configuration
+
+Send a test email from the configured email account to ensure outgoing mail is working.
+Check the inbox to confirm that incoming mail is properly received.
+
+4. Troubleshooting Common Issues
+
+Authentication Error: Verify the email address and password entered are correct.
+Unable to Send Emails: Ensure the outgoing mail server settings are correct and the appropriate port is selected (465 for SSL or 587 for TLS).
+Unable to Receive Emails: Double-check the incoming mail server settings and ensure the port numbers match those of

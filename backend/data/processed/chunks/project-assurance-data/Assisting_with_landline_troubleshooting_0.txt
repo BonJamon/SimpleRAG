@@ -1,0 +1,39 @@
+Assisting with Landline Troubleshooting - QuickConnect
+
+
+
+QuickConnect Customer Support
+Assisting with Landline Troubleshooting
+Welcome to the guide for assisting customers with landline troubleshooting. This document is designed to provide you with the steps and information needed to effectively solve common landline issues.
+Common Landline Issues
+
+No Dial Tone
+Static or Noise on the Line
+Can't Receive Calls
+Can't Make Outgoing Calls
+Intermittent Service
+
+Troubleshooting Steps
+Follow these steps to help resolve the customer's landline issues:
+1. No Dial Tone
+
+Ensure all telephone cords are plugged in securely.
+Check if the phone itself is working by trying another handset.
+Ensure there are no outages in the customer’s area. You can check this in the system dashboard.
+If the problem persists, escalate to technical support.
+
+2. Static or Noise on the Line
+
+Make sure all equipment, like modems and fax machines, are properly filtered.
+Check the line with a different phone to rule out a faulty device.
+Ask if electrical equipment or large metal objects are near the phone; these can cause interference.
+Suggest the customer to disconnect and reconnect all cords.
+
+3. Can't Receive Calls
+
+Confirm the phone ringer is turned on.
+Verify that call forwarding is not engaged.
+Check with the customer if they have enabled Do Not Disturb.
+Ensure the line is not shared with another device such as a DSL modem.
+
+4. Can't Make Outgoing Calls

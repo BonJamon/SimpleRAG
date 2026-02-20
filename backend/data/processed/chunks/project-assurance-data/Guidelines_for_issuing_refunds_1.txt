@@ -1,0 +1,46 @@
+4. Process Refund
+Use the QuickConnect system to process the refund and ensure it is credited to the customer’s account or original payment method.
+
+
+5. Notify Customer
+Inform the customer about the refund process, the amount, and expected time for the refund to appear in their account.
+
+
+6. Document the Case
+Record all relevant information in the customer's case file for future reference.
+
+
+Important Notes
+
+Always maintain professionalism when handling refund requests.
+Double-check all information before processing the refund to avoid errors.
+If in doubt, consult with a supervisor to ensure the correct protocol is followed.
+Provide the customer with a confirmation number and update them on the status of their refund if there are any delays.
+
+Common Scenarios
+
+
+Scenario
+Action
+
+
+Service Outage Compensation
+Calculate the prorated amount for the duration of the outage and process the refund.
+
+
+Incorrect Billing
+Verify the billing error, correct the invoice, and issue the refund for the overcharged amount.
+
+
+Unauthorized Charges
+Investigate the unauthorized charge, ensure it is removed, and refund the customer's account.
+
+
+Early Cancellation
+Refund any applicable amounts based on the customer’s cancellation within the first 30 days of service.
+
+
+Customer Communication
+When communicating with customers regarding refunds, ensure the following:
+
+Be clear and concise about the process and timeline.</

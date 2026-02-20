@@ -1,0 +1,48 @@
+How to Configure MAC Address Filtering - QuickConnect
+
+
+
+How to Configure MAC Address Filtering
+MAC address filtering is a security feature that allows you to control which devices can connect to your network based on their MAC addresses. Follow these steps to configure MAC address filtering on your QuickConnect router:
+Step-by-Step Instructions
+
+
+Step
+Description
+
+
+1
+Open a web browser and type in your router's IP address to access the router’s login page. Common IP addresses include 192.168.0.1 or 192.168.1.1.
+
+
+2
+Log in to your router with your admin username and password.
+
+
+3
+Navigate to the Wireless section or Security settings of the router interface.
+
+
+4
+Find the section named MAC Address Filtering or Access Control.
+
+
+5
+Enable MAC address filtering by selecting the checkbox or toggle switch.
+
+
+6
+Add the MAC addresses of the devices you want to permit or deny access to. You can often choose between Allow or Deny mode.
+
+                
+Allow mode: Only devices with listed MAC addresses can connect.
+Deny mode: Devices with listed MAC addresses are blocked from connecting.
+
+
+
+
+7
+Save your changes and restart your router if necessary.
+
+
+Frequently Asked Questions

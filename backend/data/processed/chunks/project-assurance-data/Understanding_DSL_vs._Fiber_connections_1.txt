@@ -1,0 +1,45 @@
+2. Comparative Table
+The table below highlights the key differences between DSL and Fiber Optic connections:
+
+
+Feature
+DSL
+Fiber Optic
+
+
+Transmission Medium
+Telephone Lines
+Fiber Optic Cables
+
+
+Speed
+1 - 100 Mbps
+100 Mbps - 1 Gbps+
+
+
+Distance Impact
+Speed decreases with distance
+Speed remains consistent
+
+
+Interference
+Susceptible to electromagnetic interference
+Resistant to electromagnetic interference
+
+
+Availability
+Wide, even in rural areas
+Limited to urban/suburban areas
+
+
+Cost
+Typically lower
+Typically higher
+
+
+3. Customer FAQs
+Here are some frequently asked questions (FAQs) you might encounter from customers:
+
+Which connection is better for streaming and gaming?
+Fiber Optic is generally better for streaming and gaming due to its higher speed and consistent performance.
+Is DSL still a good option?

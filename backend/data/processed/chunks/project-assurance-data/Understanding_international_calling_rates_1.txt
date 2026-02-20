@@ -1,0 +1,43 @@
+Sample International Calling Rates
+The table below provides an example of international calling rates for QuickConnect:
+
+
+
+
+Destination
+Landline Rate (per minute)
+Mobile Rate (per minute)
+
+
+
+
+Canada
+$0.05
+$0.10
+
+
+United Kingdom
+$0.08
+$0.12
+
+
+India
+$0.07
+$0.15
+
+
+Australia
+$0.06
+$0.11
+
+
+Germany
+$0.05
+$0.09
+
+
+
+
+Tips for Customers to Manage International Calling Costs
+
+Recommend using online calling apps that may offer cheaper rates or free calls to international numbers.

@@ -1,0 +1,27 @@
+Intermittent functionality
+Remote works sporadically
+
+
+Check for low battery and replace if necessary.
+Ensure there are no infrared interference sources nearby.
+Inspect and clean the infrared sensor on the TV and the emitter on the remote control.
+
+
+
+
+
+Steps for Reprogramming the Remote
+Follow these steps to reprogram the remote control:
+
+Turn on the TV manually.
+Press and hold the SETUP button on the remote until the indicator light stays on.
+Enter the appropriate code for the TV model (refer to the remote control manual or the QuickConnect database).
+Press the POWER button to test. If the TV turns off, the code is correct. If not, repeat with the next code.
+
+Additional Tips
+
+Keep the remote firmware up to date if applicable.
+Ensure the remote control is always pointed directly at the TV.
+Encourage customers to use QuickConnect's mobile app as an alternative remote control.
+
+For further assistance, refer to the Remote Control section in the QuickConnect customer service portal or contact the technical support team.

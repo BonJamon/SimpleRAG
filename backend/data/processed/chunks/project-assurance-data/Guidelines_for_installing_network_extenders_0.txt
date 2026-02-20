@@ -1,0 +1,40 @@
+Guidelines for Installing Network Extenders - QuickConnect
+
+
+
+Guidelines for Installing Network Extenders
+Overview
+Network extenders, also known as Wi-Fi boosters or repeaters, are devices designed to extend the coverage area of your wireless network. They function by receiving the existing Wi-Fi signal, amplifying it, and then transmitting the boosted signal. This document provides step-by-step guidelines to assist customers in installing network extenders effectively.
+Preparation
+
+Ensure you have your network extender device and its power adapter.
+Have your Wi-Fi network name (SSID) and password handy.
+Download the manufacturer's installation app if available (e.g., TP-Link Tether, Netgear Nighthawk).
+Identify a location approximately midway between your router and the area with weak signal coverage.
+
+Installation Steps
+
+
+Step
+Description
+
+
+Step 1
+Plug in the Extender: Connect the network extender to a power outlet.
+
+
+Step 2
+Power On: Turn on the device and wait for the power LED to become stable.
+
+
+Step 3
+Connect to Extender Network:
+
+Using a computer or mobile device, connect to the Wi-Fi network emitted by the extender (usually named something like "EXTENDERNAME_SETUP").
+Open a web browser and enter the IP address provided in the manual (e.g., 192.168.1.1) or use the mobile app.
+
+
+
+
+Step 4
+Configure Extender:

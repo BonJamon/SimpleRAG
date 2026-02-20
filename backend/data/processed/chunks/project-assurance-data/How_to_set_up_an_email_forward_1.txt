@@ -1,0 +1,33 @@
+Access the Forwarding and POP/IMAP Tab
+
+In the settings menu, click on the "Forwarding and POP/IMAP" tab.
+
+
+
+Add a Forwarding Address
+
+Click the "Add a forwarding address" button.
+Enter the email address you want to forward your emails to in the dialog box that appears, and then click "Next."
+A verification email will be sent to the specified email address; click "Proceed" to initiate this.
+
+
+
+Verify the Forwarding Address
+
+Log into the email account where you want to receive the forwarded emails.
+Open the verification email from QuickConnect and click on the verification link provided within.
+Return to your QuickConnect email settings where you initially added the forwarding address.
+
+
+
+Enable Email Forwarding
+
+After verifying, go to the "Forwarding and POP/IMAP" tab again.
+Select the "Forward a copy of incoming mail to" option and choose the newly added email address.
+Determine what you want QuickConnect to do with the original emails (e.g., keep QuickConnect's copy in the Inbox, archive, or delete it).
+Click "Save Changes" at the bottom of the settings page to apply the changes.
+
+
+
+Troubleshooting
+If you encounter issues while setting up email forwarding, consider the following tips:

@@ -1,0 +1,39 @@
+QuickConnect Customer Support - Setting Up Email Forwarding
+
+
+
+
+How to Set Up Email Forwarding
+This document provides a step-by-step guide to assist QuickConnect customers in setting up email forwarding. Follow these instructions to ensure that all your emails are forwarded to another email address of your choice.
+Step-by-Step Instructions
+
+
+Log into your QuickConnect Email Account
+
+Open your web browser and go to the QuickConnect email login page.
+Enter your email address and password, then click "Sign In."
+
+
+
+Navigate to Settings
+
+Once logged in, locate and click on the "Settings" gear icon, usually found at the top-right corner of the webpage.
+In the drop-down menu, select "See All Settings."
+
+
+
+Access the Forwarding and POP/IMAP Tab
+
+In the settings menu, click on the "Forwarding and POP/IMAP" tab.
+
+
+
+Add a Forwarding Address
+
+Click the "Add a forwarding address" button.
+Enter the email address you want to forward your emails to in the dialog box that appears, and then click "Next."
+A verification email will be sent to the specified email address; click "Proceed" to initiate this.
+
+
+
+Verify the Forwarding Address

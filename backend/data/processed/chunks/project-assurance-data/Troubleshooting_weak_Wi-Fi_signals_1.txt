@@ -1,0 +1,24 @@
+Troubleshooting Steps
+
+Check Signal Strength: Verify the Wi-Fi signal strength on the affected device. Move closer to the router to see if the signal improves.
+Inspect Router Placement: Ensure the router is positioned in a central location, elevated, and free from obstructions.
+Reduce Interference: Keep the router away from other electronic devices that may cause interference.
+Update Firmware: Check for and install any available updates for the router's firmware.
+Reboot the Router: Power cycle the router by turning it off, waiting 30 seconds, and turning it back on.
+Change Wi-Fi Channel: In the router settings, try changing the Wi-Fi channel to avoid interference from other nearby networks.
+Upgrade Equipment: Consider upgrading to a newer router that supports the latest Wi-Fi standards for better performance.
+Add an Extender or Mesh Network: Use a Wi-Fi extender or mesh network system to improve coverage in larger areas.
+
+
+
+Sample Customer Interaction
+
+
+Customer Query
+Suggested Response
+
+
+I have weak Wi-Fi signals in my living room. What can I do?
+
+
+                    Thank you for reaching out. There are several steps you can take to improve your Wi-Fi signal:

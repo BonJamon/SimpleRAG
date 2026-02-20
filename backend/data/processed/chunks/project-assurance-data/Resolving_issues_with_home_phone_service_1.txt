@@ -1,0 +1,22 @@
+Check Phone Line Connections:
+
+            
+Ensure that all phone line connections are secure and properly configured.
+Inspect cables and connectors for any signs of physical damage.
+
+
+
+
+When to Escalate
+
+If the customer continues to experience issues after the above steps, it may be necessary to escalate the issue to specialized technical support. 
+
+    Collect the following information to assist the escalation:
+
+Customer Account Information
+Details of the issue experienced
+Steps already taken for troubleshooting
+Any additional observations or error messages
+
+
+For any further assistance, please contact QuickConnect Technical Support through the internal support line or by opening a support ticket in the CRM system.

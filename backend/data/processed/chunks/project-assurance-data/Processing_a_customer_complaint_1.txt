@@ -1,0 +1,29 @@
+Contact Information
+Customer's phone number and/or email address.
+
+
+Details of the Complaint
+Specific details regarding the customer's issue or concern.
+
+
+
+Example Complaint Dialogue
+Below is an example of how to handle a customer complaint over the phone:
+
+Customer: "I'm having trouble with my internet connection. It's been down for the past two days."
+Agent: "I'm very sorry to hear about your internet issues. Let me take some information to help resolve this for you."
+
+"May I have your full name and account number?"
+"Could you please provide your best contact number and email address?"
+"Can you describe what's been happening with your internet connection?"
+
+Agent: "Thank you for providing that information. I will log this complaint and our technical team will look into this issue. You should hear back from us within the next 24 hours with an update."
+Note: Always assure the customer that their complaint is being taken seriously and provide realistic timelines for follow-up and resolution.
+
+Helpful Practices
+
+Stay calm and patient throughout the conversation.
+Show empathy and understanding.
+Be clear and concise in your communication.
+Record all details accurately.
+Follow up until the complaint is fully resolved.

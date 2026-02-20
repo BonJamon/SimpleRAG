@@ -1,0 +1,56 @@
+
+
+
+
+
+Changing a Customer's Billing Address
+
+
+
+
+How to Change a Customer's Billing Address
+
+Important: Ensure you have verified the customer's identity and have appropriate authorization to make changes to their billing information.
+    
+Please follow the steps below to change a customer's billing address:
+
+Log in to the customer account using your administrative credentials.
+Navigate to the "Billing" section on the customer dashboard.
+Click on "Edit Billing Address."
+Enter the new billing address details in the provided fields.
+Double-check the entered information for accuracy.
+Click "Save Changes" to update the billing address.
+Confirm the change with the customer and inform them they will receive an email confirmation.
+
+
+
+
+Field
+Description
+
+
+
+
+Street Address
+The customer's new street address.
+
+
+City
+The city of the new billing address.
+
+
+State/Province
+The state or province of the new billing address.
+
+
+Zip/Postal Code
+The zip or postal code for the new billing address.
+
+
+Country
+The country of the new billing address.
+
+
+
+
+

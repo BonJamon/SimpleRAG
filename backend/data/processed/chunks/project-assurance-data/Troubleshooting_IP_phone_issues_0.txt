@@ -1,0 +1,39 @@
+QuickConnect - Troubleshooting IP Phone Issues
+
+
+
+
+QuickConnect - Troubleshooting IP Phone Issues
+This document assists customer service agents in supporting customers experiencing issues with their IP phones. Follow the steps and tips provided to efficiently diagnose and resolve common problems.
+Common IP Phone Issues
+
+
+
+Issue
+Description
+
+
+
+
+No Dial Tone
+The phone does not produce a dial tone when picked up or turned on.
+
+
+Cannot Make or Receive Calls
+The phone fails to connect outgoing or incoming calls.
+
+
+One-way Audio
+During a call, one party cannot hear the other, though the other party can hear them.
+
+
+Echo
+The caller hears their own voice echoing back during a conversation.
+
+
+No Power
+The IP phone does not power on or shows no signs of activity.
+
+
+
+General Troubleshooting Steps

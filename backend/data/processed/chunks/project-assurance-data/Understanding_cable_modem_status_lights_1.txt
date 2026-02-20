@@ -1,0 +1,17 @@
+LAN/WAN
+Green
+Indicates active connection to a device (e.g., router, computer).
+Ensure the Ethernet cable is securely connected and the device is powered on.
+
+
+
+Troubleshooting Common Issues
+If a customer reports issues with their internet connection, the status lights on the modem can provide vital clues. Here are some common scenarios and troubleshooting steps:
+
+No Power Light: Verify that the power cord is securely plugged into both the modem and the electrical outlet. Try a different outlet if necessary.
+Downstream/Upstream Light Amber: Check the coaxial cable connection and ensure it’s tightly secured. Restart the modem. If the problem persists, it might be an issue with the service provider.
+No Online Light: Restart the modem. Check if there’s a known outage in the area. If the online light remains off, try resetting the modem to factory settings (refer to the modem’s manual for instructions).
+No LAN/WAN Light: Ensure the Ethernet cable is correctly plugged in at both ends. Confirm that the connected device (e.g., a PC or router) is turned on and functioning properly.
+
+Contacting Technical Support
+If the troubleshooting steps do not resolve the issue, guide the customer to contact QuickConnect's technical support for further assistance. Make sure they have the following information ready:

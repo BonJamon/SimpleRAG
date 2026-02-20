@@ -1,0 +1,46 @@
+Troubleshooting Common Issues
+
+
+
+Issue
+Solution
+
+
+
+
+Backup process is slow
+
+
+Ensure your internet connection is stable.
+Close any unnecessary applications that may be using bandwidth.
+
+
+
+
+Error message: "Drive not found"
+
+
+Make sure the drive is connected properly.
+Verify the drive is accessible in the File Explorer.
+Try re-adding the drive in the Backup Settings.
+
+
+
+
+Backup fails to start
+
+
+Check for sufficient storage space at the destination.
+Ensure the QuickConnect software is up-to-date.
+Restart the QuickConnect software and try again.
+
+
+
+
+
+Contact Support
+If you encounter any issues that you cannot resolve, please contact QuickConnect customer support:
+
+Phone: 1-800-123-4567
+Email: support@quickconnect.com
+Live Chat: Available on our website

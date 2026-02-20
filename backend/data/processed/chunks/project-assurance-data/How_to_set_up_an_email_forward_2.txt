@@ -1,0 +1,11 @@
+Troubleshooting
+If you encounter issues while setting up email forwarding, consider the following tips:
+
+Ensure you have access to the forwarding email address to complete the verification process.
+Double-check that you entered the forwarding email address correctly.
+Make sure there are no filters in place that might affect email forwarding.
+Contact QuickConnect customer support if you continue to have issues or need further assistance.
+
+Contact Support
+
+    <

@@ -1,0 +1,29 @@
+Smartphone
+
+
+Navigate to the Settings menu on your smartphone.
+Select "Backup & reset" or "System", then choose "Factory data reset".
+You may be prompted to enter your passcode or unlock pattern.
+Confirm by selecting "Reset" or "Erase everything".
+Wait for the phone to reset and restart. This may take several minutes.
+
+
+
+
+Tablet
+
+
+Open the Settings menu on your tablet.
+Choose "System" and then "Reset options".
+Select "Erase all data (factory reset)".
+Confirm your selection and follow the on-screen prompts to initiate the reset.
+Allow the tablet to reset and restart. This process can take a few minutes.
+
+
+
+
+Important Notes
+
+Backing up your data is recommended before performing a factory reset, as this process will erase all personal data and settings.
+If you encounter any issues during the reset process, contact QuickConnect Customer Support for assistance.
+After a factory reset, you may need to reconfigure your device settings and reconnect to your Wi-Fi network.

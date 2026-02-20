@@ -1,0 +1,32 @@
+2. Check Device Compatibility
+Ensure the customer's device meets the minimum system requirements for the telehealth platform. Update the device’s operating system if necessary.
+
+
+3. Restart Devices
+Instruct the customer to restart their modem, router, and the device they are using for telehealth.
+
+
+4. Update Telehealth App
+Ensure the customer is using the latest version of the telehealth application by checking for updates through their device’s app store.
+
+
+5. Adjust Firewall/Security Settings
+If the customer has a firewall or antivirus software, guide them to temporarily adjust the settings to allow the telehealth service.
+
+
+6. Use an Ethernet Connection
+For a more stable connection, recommend the customer use a wired Ethernet connection instead of Wi-Fi.
+
+
+7. Contact Telehealth Provider
+If issues persist, suggest the customer contact their telehealth service provider for additional assistance or alternative solutions.
+
+
+
+Pro Tips
+
+Bandwidth Management: Advise customers to limit the number of devices connected to their network during telehealth appointments to minimize interference.
+Quiet Environment: Recommend conducting telehealth sessions in a quiet room with minimal background noise for better communication quality.
+Preparation: Suggest that customers test their connection and equipment well before their scheduled appointment time.
+
+Additional Resources

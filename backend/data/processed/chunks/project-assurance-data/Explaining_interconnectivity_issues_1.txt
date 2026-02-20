@@ -1,0 +1,25 @@
+Slow internet speeds
+Congestion, interference, or incorrect settings
+Run a speed test, move closer to the router, and optimize settings
+
+
+Unable to connect to VPN
+VPN configuration issues or ISP restrictions
+Verify VPN settings and check with ISP for any restrictions
+
+
+Intermittent connectivity
+Wireless interference or router firmware issue
+Change wireless channels and update router firmware
+
+
+
+
+
+Escalation Procedure
+If the issue cannot be resolved through basic troubleshooting, follow these escalation steps:
+
+Document all troubleshooting steps taken and results observed.
+Collect key information such as customer account number, device model, and network setup.
+Create a detailed support ticket and escalate it to the Level 2 support team.
+Inform the customer of expected response times and provide any interim solutions if possible.

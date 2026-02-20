@@ -1,0 +1,28 @@
+QoS (Quality of Service)
+Prioritizes bandwidth for critical applications and devices.
+Enable QoS settings and prioritize streaming, gaming, and VoIP services.
+
+
+
+3. Configuring Switches
+
+Enable VLANs (Virtual Local Area Networks) to segment network traffic and improve security and performance.
+Configure link aggregation to combine multiple network connections for increased bandwidth and redundancy.
+Utilize Quality of Service (QoS) to prioritize critical data traffic.
+
+4. Configuring Access Points (APs)
+
+Place APs strategically to ensure optimal coverage and minimal overlap.
+Configure APs to operate on different channels to reduce interference.
+Consider implementing Wi-Fi 6 for better performance, especially in high-density environments.
+
+5. Monitoring and Maintenance
+Regularly monitor network performance and maintain devices to ensure optimal performance:
+
+View usage statistics and identify bottlenecks through network monitoring tools.
+Restart network devices periodically to clear any temporary issues.
+Schedule regular firmware updates to ensure device stability and security.
+
+Useful Links
+
+QuickConnect Support

@@ -1,0 +1,41 @@
+4. Tools for Managing Network Traffic
+
+
+Tool
+Description
+
+
+NetFlow Analyzer
+Monitors and analyzes network traffic in real-time.
+
+
+Wireshark
+Captures and examines packets to diagnose issues.
+
+
+SolarWinds Network Performance Monitor
+Provides detailed analytics and insights into network performance.
+
+
+5. Handling Customer Complaints Related to Network Traffic
+
+Listen and Diagnose: Understand the customer's issue and gather necessary information for diagnosis.
+Provide Troubleshooting Steps: Guide the customer through basic troubleshooting steps, such as:
+
+        
+Restarting the modem or router
+Checking for physical obstructions or interferences
+Running a speed test
+Disabling unused devices or applications
+
+
+Escalate if Necessary: If the issue persists, escalate to a higher technical support tier for further investigation.
+Follow Up: Ensure to follow up with the customer to confirm that the issue is resolved and they are satisfied with the service.
+
+6. Best Practices
+
+Educate Customers: Inform customers about the impact of heavy usage and recommend practices to optimize network performance.
+Regular Updates: Ensure customers keep their network hardware and software updated.
+Proactive Monitoring: Use proactive monitoring to detect issues before they impact customers.
+
+Note: The guidelines provided above are intended for internal use by QuickConnect customer service agents and should be adapted based on specific customer inquiries and scenarios.</

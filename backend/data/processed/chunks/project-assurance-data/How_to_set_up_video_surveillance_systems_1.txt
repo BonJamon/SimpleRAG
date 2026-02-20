@@ -1,0 +1,38 @@
+Step 3: Setting Up the DVR/NVR
+
+Install a hard drive into the DVR/NVR to store recorded footage.
+Connect the DVR/NVR to a monitor using an HDMI or VGA cable.
+Power on the DVR/NVR and follow the on-screen setup instructions.
+
+Step 4: Network Configuration
+
+Connect the DVR/NVR to the router using an Ethernet cable.
+Login to the DVR/NVR and configure the network settings (IP address, subnet mask, gateway, etc.).
+Enable remote access to view the footage from mobile devices or computers.
+
+Step 5: Testing the System
+
+Check the video feed from all installed cameras to ensure they are working properly.
+Test the recording functionality by setting a schedule or enabling motion detection.
+Verify remote access by logging in from a smartphone or computer.
+
+Troubleshooting Tips
+
+
+Issue
+Solution
+
+
+No Video Feed
+Check the camera connections and ensure they have power. Verify that the cables are properly connected to the DVR/NVR.
+
+
+No Remote Access
+Confirm that the DVR/NVR is connected to the internet. Check the network settings and ensure port forwarding is set up on the router.
+
+
+Poor Video Quality
+Adjust the camera angles and focus. Check the camera lens for dirt or obstructions.
+
+
+        <

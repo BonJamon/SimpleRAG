@@ -1,0 +1,40 @@
+QuickConnect - Assisting with Telehealth Connectivity
+
+
+
+
+QuickConnect Customer Support
+Assisting with Telehealth Connectivity
+Overview
+Telehealth services play a critical role in providing remote medical care. Ensuring seamless connectivity for telehealth appointments is essential for a positive patient experience. This document outlines the steps and best practices for assisting customers with telehealth connectivity issues.
+Common Connectivity Issues
+
+Weak or Unstable Internet Connection: Dropped calls, buffering during video streams.
+Device Compatibility: Issues with specific devices or outdated software.
+Application Errors: Problems with the telehealth app itself.
+Firewall/Security Settings: Firewalls or security settings blocking the connection.
+
+Steps to Resolve Connectivity Issues
+
+
+
+Step
+Description
+
+
+
+
+1. Verify Internet Speed
+Advise the customer to check their internet speed using a trusted speed test website. Ideally, the speed should be at least 5 Mbps for download and upload.
+
+
+2. Check Device Compatibility
+Ensure the customer's device meets the minimum system requirements for the telehealth platform. Update the device’s operating system if necessary.
+
+
+3. Restart Devices
+Instruct the customer to restart their modem, router, and the device they are using for telehealth.
+
+
+4. Update Telehealth App
+Ensure the customer is using the latest version of the telehealth application by checking for updates through their device’s app store.

@@ -1,0 +1,25 @@
+Common Troubleshooting Steps
+Even with an optimal setup, Wi-Fi issues can still occur. Here are some common troubleshooting steps:
+
+
+
+Issue
+Solution
+
+
+
+
+Slow Connection
+Restart the router, check for interference, limit the number of devices, or switch to a less crowded channel.
+
+
+Connection Drops
+Update firmware, reduce interference, or consider using a wired connection for critical devices.
+
+
+Devices Not Connecting
+Ensure the correct password is entered, forget the network and reconnect, or reset the network settings on the device.
+
+
+
+By following these tips and guidelines, customers can enhance their home Wi-Fi experience

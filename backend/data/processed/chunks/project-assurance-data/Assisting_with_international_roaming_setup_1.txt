@@ -1,0 +1,36 @@
+Tip: Direct customers to the QuickConnect website or app where they can view and manage their international roaming options.
+
+3. Enabling International Roaming on the Device
+Guide the customer with the steps specific to their device type:
+
+
+Device
+Steps
+
+
+iPhone
+
+
+Open Settings.
+Tap Cellular (or Mobile Data).
+Tap Cellular Data Options.
+Toggle on Data Roaming.
+
+
+
+
+Android
+
+
+Open Settings.
+Tap Connections.
+Tap Mobile Networks.
+Toggle on Data Roaming.
+
+
+
+
+4. Confirming Device Settings
+Ensure the following settings are properly configured:
+
+Network Selection: Set to automatic to allow the device to connect to available networks abroad.

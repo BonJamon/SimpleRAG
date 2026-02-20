@@ -1,0 +1,26 @@
+Network Optimization
+
+Wired Connection: Use a wired Ethernet connection instead of Wi-Fi for a more stable and faster connection.
+Router Placement: Place the router in an open space and as close to the gaming device as possible.
+Quality of Service (QoS): Enable QoS on the router to prioritize gaming traffic over other types of internet traffic.
+
+
+
+Additional Tips
+
+Close unnecessary background applications to free up system resources for gaming.
+Regularly clean and maintain hardware to prevent overheating and dust accumulation.
+Consider using game booster software that can optimize system settings for gaming performance.
+
+
+
+Contact Us
+If you have any issues or need further assistance, please contact QuickConnect Customer Support at:
+
+
+Email
+support@quickconnect.com
+
+
+Phone
+1-800-123-4567

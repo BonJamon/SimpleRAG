@@ -1,0 +1,32 @@
+Change Wi-Fi Channel
+
+Log in to the router's admin panel.
+Navigate to the wireless settings section and change the channel to a less congested one.
+
+
+Reset Network Settings
+
+Reset network settings on the device experiencing issues (Note: This will remove all saved networks and credentials).
+Consult the device's manual for specific instructions on how to reset network settings.
+
+
+
+Checklist of Potential Causes
+
+
+
+Issue
+Possible Causes
+
+
+
+
+No Internet Access
+ISP outage, faulty modem/router, payment issues
+
+
+Weak Wi-Fi Signal
+Distance from router, physical obstructions, interference from other devices
+
+
+            <

@@ -1,0 +1,26 @@
+Yahoo Mail
+imap.mail.yahoo.com
+smtp.mail.yahoo.com
+
+
+Outlook
+imap-mail.outlook.com
+smtp-mail.outlook.com
+
+
+
+
+Complete Setup:
+Follow any additional on-screen prompts to complete the setup process. This may include verifying your email account or adjusting sync settings.
+
+
+Repeat for Additional Accounts:
+Repeat steps 3 to 5 for any additional email accounts you wish to add.
+
+
+Tips for Managing Multiple Email Accounts
+
+Organize: Use folders or labels to categorize emails from different accounts.
+Filters and Rules: Set up filters or rules to automatically manage incoming emails.
+
+            <

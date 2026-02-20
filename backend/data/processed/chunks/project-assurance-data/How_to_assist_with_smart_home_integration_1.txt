@@ -1,0 +1,32 @@
+4. Follow Setup Instructions
+Assist the customer in following the setup instructions provided by the device manufacturer, which typically involve connecting the device to the Wi-Fi network.
+
+
+5. Configure Device Settings
+Help the customer configure device settings through the app, such as naming rooms, setting schedules, and enabling notifications.
+
+
+6. Test Device Functionality
+Ensure that the device is functioning correctly by testing its basic operations.
+
+
+
+Troubleshooting Common Issues
+If a customer encounters issues during smart home integration, consider the following troubleshooting tips:
+
+Issue: Device not connecting to Wi-Fi
+
+Ensure the Wi-Fi password is entered correctly.
+Confirm the device is within range of the Wi-Fi router.
+Restart the router and smart device.
+
+Issue: Device not appearing in the app
+
+Make sure the app is up-to-date.
+Reinstall the app if necessary.
+Reset the smart device as per the manufacturer's instructions.
+
+Issue: Device not responding to commands
+
+Check for any firmware updates for the smart device.
+Ensure there

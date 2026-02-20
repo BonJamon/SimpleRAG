@@ -1,0 +1,20 @@
+QuickConnect Customer Service Guide - Handling Equipment Loss or Damage
+
+
+
+
+Handling Equipment Loss or Damage
+
+Note: Please ensure all interactions are logged in the system and follow the company's policies strictly.
+
+        
+Steps to Handle Equipment Loss
+
+Verify Customer Information: Ensure that you have the correct customer details including account number, full name, and contact information.
+Identify Lost Equipment: Ask the customer to specify the equipment that is lost. Common items include routers, modems, and set-top boxes.
+Check Warranty and Coverage: Check if the equipment is under warranty or covered by any insurance plans offered by QuickConnect.
+Provide Replacement Options: Inform the customer about replacement options and associated costs, if not covered.
+Arrange for Replacement: Organize the dispatch of replacement equipment. Provide the customer with a tracking number if applicable.
+Update Records: Log the incident in the system and update the customer's account with relevant details.
+
+Steps to Handle Equipment Damage

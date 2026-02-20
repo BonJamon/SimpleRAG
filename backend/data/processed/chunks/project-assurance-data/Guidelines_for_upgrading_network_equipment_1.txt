@@ -1,0 +1,26 @@
+Wi-Fi Extender
+QuickConnect Extend 1200
+Dual-Band, Easy Pairing, Wide Coverage
+$50 - $80
+
+
+Switch
+QuickConnect Switch 800
+8 Ports, Gigabit Ethernet, Energy Efficient
+$30 - $50
+
+
+3. Step-by-Step Upgrade Guide
+Preparing for the Upgrade
+
+Back up current network settings.
+Ensure you have all necessary equipment and cables.
+Read the user manuals of the new devices beforehand.
+
+Installing New Equipment
+
+Disconnect old equipment and unplug all cables.
+Connect the new modem to the cable outlet and power source.
+Attach the router to the modem using an Ethernet cable.
+Power on the modem first, wait for it to fully initialize, then power on the router.
+Connect to the router’s default Wi

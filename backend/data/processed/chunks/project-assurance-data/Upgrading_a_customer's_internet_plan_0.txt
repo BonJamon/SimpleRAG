@@ -1,0 +1,78 @@
+How to Support Customers in Upgrading Internet Plan
+
+
+
+Upgrading a Customer's Internet Plan
+This document provides detailed steps to assist customers in upgrading their internet plan efficiently and effectively.
+Steps to Follow
+
+Log in to the customer’s account using the CRM system.
+Verify customer information to ensure account security.
+Navigate to the "Internet Services" section of the customer account.
+Review the current internet plan details with the customer.
+Discuss and recommend available upgrade options based on customer needs.
+Process the upgrade request through the CRM system.
+Confirm the changes made with the customer and provide a summary of the new plan details.
+Inform the customer about any potential service interruptions during the upgrade process.
+
+Available Internet Plans
+
+
+
+Plan Name
+Speed
+Price
+Data Limit
+
+
+
+
+Basic
+50 Mbps
+$29.99/month
+100 GB
+
+
+Standard
+100 Mbps
+$49.99/month
+250 GB
+
+
+Advanced
+300 Mbps
+$69.99/month
+Unlimited
+
+
+Premium
+1 Gbps
+$99.99/month
+Unlimited
+
+
+
+Important Notes
+
+
+Ensure all upgrade requests are made with customer consent.
+Clearly explain the benefits and any additional charges related to the upgrade.
+Verify if the customer’s equipment is compatible with the new plan.
+Provide information on any promotions or discounts that may be available.
+
+
+Contact Information for Support
+If you encounter any issues during the upgrade process, please contact the Support Team:
+
+
+
+Department
+Email
+Phone Number
+
+
+
+
+Technical Support
+techsupport@quickconnect.com
+1-800-555-1234

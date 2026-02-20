@@ -1,0 +1,25 @@
+Tip: Taking detailed notes during this step can help in accurately diagnosing the problem.
+
+    
+Step 2: Check Basic Connectivity
+
+Ask the customer to try browsing a website to confirm their internet connection is working.
+Ensure the customer’s modem and router are powered on and the connections are secure.
+Advise the customer to reboot their router and modem to refresh their connection.
+
+Step 3: Verify Game Server Status
+
+Visit the game developer’s website or official social media channels to check for server status updates.
+Check community forums for reports of similar issues from other players.
+
+Step 4: Network Configuration
+
+Ensure the customer’s NAT type is set to "Open" or "Moderate" for optimal performance. Provide guidance on how to check and change NAT settings if necessary.
+Advise the customer to connect their gaming device directly to the router with an Ethernet cable if they are using Wi-Fi.
+Suggest disabling any network features that might be causing interference (e.g., QoS, firewall settings).
+
+Step 5: Advanced Troubleshooting
+
+Check and configure port forwarding settings based on the game's requirements.
+Verify and update firmware for the customer’s router.
+Suggest

@@ -1,0 +1,46 @@
+Software Updates
+
+Ensure the hotspot firmware is up to date.
+Check if the customer’s device software/OS is up to date.
+
+
+Data Limits
+
+Verify if the customer has exceeded their data limit.
+
+
+Reset Network Settings
+
+Guide the customer to reset their network settings on both the hotspot and their device.
+
+
+
+Common Issues and Resolutions
+
+
+
+Issue
+Possible Cause
+Resolution
+
+
+
+
+Cannot find the wireless network
+Hotspot turned off, hidden network
+Ensure the hotspot is on, check SSID broadcast settings
+
+
+Weak signal
+Physical obstructions, distance from hotspot
+Move closer to the hotspot, remove obstructions
+
+
+Intermittent connection
+Interference from other devices
+Change Wi-Fi channel, reduce interference sources
+
+
+No internet access
+Data limit reached, network outage
+Check data usage, verify network status

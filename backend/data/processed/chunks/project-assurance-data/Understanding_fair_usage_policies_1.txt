@@ -1,0 +1,35 @@
+Element
+Details
+
+
+
+
+Data Cap
+Each mobile plan has a data cap after which data speed may be reduced.
+
+
+Speed Reduction
+Once the data cap is reached, customers will experience reduced internet speed.
+
+
+Extra Charges
+No extra charges for exceeding usage limits, but speed will be throttled.
+
+
+Monitoring
+Data usage is monitored and customers are notified when they approach or exceed their limits.
+
+
+
+Tips for Communicating FUP to Customers
+
+Be Clear and Concise: Explain the fair usage policy in simple terms. Avoid jargon.
+Provide Examples: Use examples to illustrate what exceeding the data cap means for the customer's service.
+Offer Solutions: Suggest plans with higher data limits if customers frequently exceed their current plan's cap.
+Be Empathetic: Understand that customers may feel frustrated by speed reductions, and show empathy in your responses.
+
+Common Customer Queries about FUP
+
+Why is my internet speed slow? Explain that the customer's data usage may have exceeded the fair usage cap, leading to reduced speeds.
+How can I check my data usage? Guide customers to the QuickConnect app or website where they can monitor their data usage.
+Is there an option to buy more data? Inform customers about available data add-ons or higher data limit plans.

@@ -1,0 +1,26 @@
+Understanding and Setting Up VLANs - QuickConnect Support
+
+
+
+Understanding and Setting Up VLANs
+Welcome to the QuickConnect Customer Support Guide. This document will help you understand what VLANs (Virtual Local Area Networks) are and how to assist customers in setting them up.
+What is a VLAN?
+A VLAN (Virtual Local Area Network) is a network protocol that allows multiple networks to run on a single physical network infrastructure. VLANs enable devices on different physical LAN segments to communicate as if they were on the same LAN. They offer improved security, better performance, and simplified network management.
+Benefits of Using VLANs
+
+Improved Network Security: VLANs allow segmentation of networks reducing the scope of threats.
+Better Network Performance: Grouping devices with similar profiles can minimize broadcast traffic.
+Simplified Network Management: Easier to manage different network segments and policies.
+Flexibility: Devices can be moved across different segments without affecting the entire network.
+
+Steps to Set Up VLANs
+Follow these steps to help customers set up VLANs:
+1. Identify VLAN Requirements
+Ask the customer the following questions to determine their VLAN requirements:
+
+What devices or departments need to be on separate VLANs?
+Are there specific security or performance requirements?
+Do they have existing network hardware that supports VLANs?
+
+2. Configure VLANs on Network Devices
+Guide the customer on how to configure VLANs on their network devices:

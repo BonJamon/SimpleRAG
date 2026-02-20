@@ -1,0 +1,35 @@
+How to Set Up Video Surveillance Systems
+
+
+
+Setting Up Video Surveillance Systems
+This guide provides step-by-step instructions on how to set up a video surveillance system for customers of QuickConnect. The following sections will help you assist customers with the necessary steps, equipment, and troubleshooting tips.
+Required Equipment
+
+Surveillance Cameras
+Digital Video Recorder (DVR) or Network Video Recorder (NVR)
+Hard Drive for Storage
+Cables (Ethernet/Coaxial) and Connectors
+Power Supply
+Monitor
+Router and Internet Connection
+
+Step-by-Step Setup
+Step 1: Camera Placement
+
+Identify the areas you want to monitor.
+Install cameras at strategic points to cover entry points and vulnerable areas.
+Ensure cameras are mounted securely and angled correctly.
+
+Step 2: Connecting Cameras to DVR/NVR
+
+Connect the cameras to the DVR or NVR using the appropriate cables (Ethernet for IP cameras, coaxial for analog cameras).
+Connect the cameras to a power source.
+
+Step 3: Setting Up the DVR/NVR
+
+Install a hard drive into the DVR/NVR to store recorded footage.
+Connect the DVR/NVR to a monitor using an HDMI or VGA cable.
+Power on the DVR/NVR and follow the on-screen setup instructions.
+
+Step 4: Network Configuration

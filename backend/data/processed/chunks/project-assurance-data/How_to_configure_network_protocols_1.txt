@@ -1,0 +1,16 @@
+DNS Servers
+Servers that translate domain names to IP addresses.
+
+
+
+Troubleshooting Tips
+
+Ensure Accuracy: Double-check that the customer enters all parameters correctly.
+Restart the Router: If changes do not take effect, suggest restarting the router or modem.
+Consult ISP: If problems persist, recommend contacting the customer's Internet Service Provider for additional support.
+
+Contact Us
+If you encounter any issues or have questions, contact QuickConnect support at:
+
+Phone: 1-800-123-4567
+Email: support@quickconnect.com

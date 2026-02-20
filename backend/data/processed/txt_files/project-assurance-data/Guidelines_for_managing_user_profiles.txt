@@ -1,0 +1,88 @@
+
+
+
+
+
+Guidelines for Managing User Profiles
+
+
+
+Guidelines for Managing User Profiles
+Managing user profiles effectively ensures a seamless experience for our customers. Follow these guidelines to help users with profile-related queries:
+1. Accessing User Profiles
+
+Log into the QuickConnect Admin Dashboard.
+Navigate to the "Users" section in the sidebar.
+Search for the user by username, email, or phone number.
+
+2. Updating User Information
+To update user information, follow these steps:
+
+Find the user profile you wish to update.
+Click on the "Edit Profile" button.
+Update the necessary fields including name, email, phone number, or address.
+Click "Save" to apply the changes.
+
+3. Resetting Passwords
+
+Select the user profile that requires a password reset.
+Click on the "Reset Password" link.
+Enter a temporary password and communicate it to the user securely.
+Instruct the user to change their password upon their next login.
+
+4. Deactivating and Reactivating Accounts
+
+
+
+Action
+Steps
+
+
+
+
+Deactivate
+
+
+Open the user profile.
+Click "Deactivate Account".
+Confirm the deactivation in the prompt.
+
+
+
+
+Reactivate
+
+
+Open the user profile.
+Click "Reactivate Account".
+Confirm the reactivation in the prompt.
+
+
+
+
+
+5. Viewing User Activity
+
+Access the user's profile from the Users section.
+Click on "Activity Log" to see the recent actions performed by the user.
+
+6. Handling Special Requests
+If you receive special requests from users that are not covered by standard procedures:
+
+Document the request details thoroughly.
+Escalate the request to a supervisor or the relevant department.
+Follow up with the user regarding the status of their request.
+
+7. Security Practices
+Always adhere to the following security practices when managing user profiles:
+
+Avoid sharing sensitive information via unsecured channels.
+Verify user identity before making changes to their profile.
+Keep a record of all changes made to user profiles.
+
+8. FAQ
+
+
+
+Question
+Answer</

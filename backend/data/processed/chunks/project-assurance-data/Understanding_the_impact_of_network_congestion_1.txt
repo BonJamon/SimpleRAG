@@ -1,0 +1,25 @@
+Customer Troubleshooting Tips for Network Congestion
+When customers experience issues due to network congestion, guide them through the following steps:
+
+Check Network Status: Verify if there are known issues or maintenance activities affecting the network.
+Reduce Bandwidth Usage: Suggest limiting the use of high-bandwidth applications or devices, particularly during peak usage times.
+Restart Devices: Instruct customers to restart their modem/router and devices to potentially resolve temporary issues.
+Upgrade Plan: If congestion issues persist, recommend upgrading to a plan with higher bandwidth limits.
+
+Role of QuickConnect in Mitigating Network Congestion
+At QuickConnect, we take several measures to manage and mitigate network congestion:
+
+
+
+Measure
+Description
+
+
+
+
+Network Monitoring
+Continuous monitoring of network traffic and performance to identify and address congestion issues proactively.
+
+
+Infrastructure Upgrades
+Investing in advanced infrastructure to enhance capacity and

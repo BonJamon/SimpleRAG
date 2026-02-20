@@ -1,0 +1,34 @@
+Examples
+
+
+Activity
+Speed Type
+Explanation
+
+
+Streaming a 4K Movie
+Download
+High download speed ensures smooth playback without buffering.
+
+
+Uploading a Youtube Video
+Upload
+High upload speed makes uploading large video files faster.
+
+
+Video Conferencing (Zoom/Teams)
+Both
+Requires good upload speed for clear video upsteam and download speed for clear video downstream.
+
+
+Troubleshooting Tips
+
+Verify the customer's current speed by having them perform a speed test.
+Check for any network congestion or usage spikes that may affect speed.
+Ensure the customer's router and modem are properly configured and up to date.
+Advise customers on ways to optimize their network, such as reducing the number of connected devices.
+
+Additional Resources
+
+QuickConnect Speed Test
+Customer Support Portal

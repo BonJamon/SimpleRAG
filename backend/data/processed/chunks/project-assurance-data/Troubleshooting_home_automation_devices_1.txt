@@ -1,0 +1,31 @@
+Verify Wi-Fi Connection
+
+Check if the device and your phone/tablet are on the same Wi-Fi network.
+Ensure the Wi-Fi signal is strong and stable.
+
+
+
+Restart Devices
+
+Restart your router and the home automation device.
+This can resolve minor connectivity issues.
+
+
+
+Update Firmware and Apps
+
+Ensure both the device firmware and control app are updated to the latest versions.
+Check the manufacturer's website for firmware updates.
+
+
+
+Factory Reset
+
+If issues persist, consider performing a factory reset on the device.
+Refer to the device manual for specific instructions on how to do this.
+
+
+
+
+
+Contacting Support</

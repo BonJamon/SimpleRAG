@@ -1,0 +1,54 @@
+Important Contacts for Escalation:
+
+    
+
+
+
+Department
+Contact Person
+Email
+Phone Extension
+
+
+
+
+Technical Support
+Jane Doe
+jane.doe@quickconnect.com
+4456
+
+
+Customer Service Supervisor
+John Smith
+john.smith@quickconnect.com
+4478
+
+
+Compliance Department
+Mary Johnson
+mary.johnson@quickconnect.com
+4432
+
+
+
+
+
+
+
+        FAQs:
+
+    
+
+Q: What should I do if a customer reports multiple spam messages?
+
+            A: Log each complaint separately and advise the customer to use the spam reporting service by forwarding messages to 7726.
+
+        
+Q: Can the customer block spam numbers themselves?
+
+            A: Yes, most devices allow users to block numbers. Provide them with instructions specific to their device.
+
+        
+Q: What if the spam continues after initial handling?
+
+            A: Escalate the issue to the technical team for

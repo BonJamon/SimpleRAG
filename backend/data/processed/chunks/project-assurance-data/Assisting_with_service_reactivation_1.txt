@@ -1,0 +1,44 @@
+Process the Payment:
+
+                
+If the customer is ready to make a payment, walk them through the payment process.
+Confirm receipt of payment and update the account status accordingly.
+
+
+Reactivation Confirmation:
+
+                
+Once payment is confirmed, navigate to the reactivation section in the CMS.
+Submit the reactivation request and note the confirmation details.
+Inform the customer that their service has been reactivated and provide any additional instructions if necessary.
+
+
+
+
+Additional Information
+
+
+
+Scenario
+Action Required
+
+
+
+
+Overdue Balance
+Customer must settle the overdue balance to reactivate service.
+
+
+Temporary Suspension
+Reactivation can proceed once the suspension period ends.
+
+
+Fraud Alert
+Transfer the call to the Fraud Department for further assistance.
+
+
+
+
+Contact Information
+
+Customer Service Department: 1

@@ -1,0 +1,51 @@
+QuickConnect Customer Support - Factory Reset Guide
+
+
+
+
+QuickConnect Customer Support
+Factory Reset Guide
+Performing a factory reset on your QuickConnect device can help resolve many issues by restoring the device to its original settings. Follow the guide below to perform a factory reset on different QuickConnect devices.
+
+
+Device Type
+Instructions
+
+
+Router
+
+
+Ensure the router is powered on.
+Locate the reset button on the router. It is usually a small, recessed button.
+Use a paperclip or a similar object to press and hold the reset button for 10-15 seconds.
+Release the reset button and wait for the router to reboot.
+The router is now reset to factory settings. Reconfigure the router if necessary.
+
+
+
+
+Modem
+
+
+Ensure the modem is powered on.
+Locate the reset button or reset hole on the modem.
+Press and hold the reset button for at least 10 seconds using a pointed object.
+Release the button and wait for the modem to restart.
+Once the lights on the modem stabilize, the modem is reset to factory settings.
+
+
+
+
+Smartphone
+
+
+Navigate to the Settings menu on your smartphone.
+Select "Backup & reset" or "System", then choose "Factory data reset".
+You may be prompted to enter your passcode or unlock pattern.
+Confirm by selecting "Reset" or "Erase everything".
+Wait for the phone to reset and restart. This may take several minutes.
+
+
+
+
+Tablet

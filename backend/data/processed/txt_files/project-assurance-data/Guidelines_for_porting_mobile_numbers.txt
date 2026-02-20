@@ -1,0 +1,76 @@
+
+
+
+
+
+Guidelines for Porting Mobile Numbers
+
+
+
+Guidelines for Porting Mobile Numbers
+Porting a mobile number allows customers to retain their existing phone number when switching from one service provider to another. This document provides comprehensive guidelines for QuickConnect customer service agents to assist customers with the number porting process effectively.
+Steps for Porting a Mobile Number
+
+Verify the Customer’s Details
+            
+Customer Name
+Phone Number to be Ported
+Current Network Provider
+Account Number with Current Provider
+
+
+Provide the Porting Authorization Code (PAC) 
+            
+Requests for PAC can be made via SMS or Customer Support
+PAC is usually valid for 30 days
+
+
+Complete Porting Request
+            
+Submit the PAC and other required details to the new service provider
+The new service provider will coordinate with the existing provider to complete the porting
+
+
+Keep the Customer Informed
+            
+Inform the customer about the potential service outages during the porting process
+Estimated porting time: 1-2 working days
+
+
+
+Common Questions & Answers
+
+
+Question
+Answer
+
+
+How long does the porting process take?
+The process typically takes 1-2 working days.
+
+
+What is the Porting Authorization Code (PAC)?
+PAC is a unique code provided by the current service provider, required to port the number to a new provider. It is valid for 30 days.
+
+
+Can I use my phone during the porting process?
+Yes, but there might be short periods of service interruption.
+
+
+Is there a fee for porting my number?
+Typically, there is no fee for porting a number, but it is advisable to confirm with both providers.
+
+
+Important Tips for Successful Porting
+
+
+Ensure all outstanding bills with the current service provider are cleared before initiating the porting process.
+Double-check the details submitted for accuracy to avoid any delays.
+Advise the customer to back up important contacts and messages.
+
+
+Contact Information
+If you encounter any issues or have further questions, please contact the QuickConnect Support Team:
+
+Email: support@quickconnect.com
+Phone: 1

@@ -1,0 +1,45 @@
+Assisting with Router Firmware Updates - QuickConnect
+
+
+
+Assisting with Router Firmware Updates
+This document explains how customer service agents at QuickConnect can assist customers with updating their router firmware. Ensuring that customers have up-to-date firmware is essential for optimal performance and security.
+Steps to Assist with Router Firmware Updates
+
+Identify the Router Model: 
+
+            Make sure to get the exact model and version of the router from the customer. This information is typically found on a label on the router or within the router's admin interface.
+
+        
+Locate the Latest Firmware: 
+
+            Direct the customer to the router manufacturer’s website. Below are links to common manufacturers:
+
+            
+Netgear
+TP-Link
+Linksys
+ASUS
+
+
+Download the Firmware: 
+
+            Instruct the customer to download the appropriate firmware file for their router model from the manufacturer's website.
+
+        
+Access the Router Admin Interface: 
+
+            Guide the customer to log in to their router's administrative interface, typically accessed via a web browser by entering the router’s IP address (e.g., 192.168.1.1).
+
+        
+Install the Firmware Update: 
+
+            Advise the customer to navigate to the firmware update section within the admin interface and upload the downloaded firmware file. They should follow any on-screen instructions to complete the update.
+
+        
+
+Common Issues and Troubleshooting
+
+
+Issue
+Possible Solution

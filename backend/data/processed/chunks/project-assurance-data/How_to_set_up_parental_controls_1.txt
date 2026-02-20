@@ -1,0 +1,21 @@
+macOS
+
+Open System Preferences and click on Screen Time.
+Enable Screen Time and select your child's account from the options.
+Set the desired restrictions under App Limits, Downtime, and Content & Privacy settings.
+Click OK to save the changes.
+
+Setting Up Parental Controls on Streaming Services
+Netflix
+
+Log in to your Netflix account and navigate to Account Settings.
+Select Parental Controls.
+Enter your Netflix password and create a 4-digit PIN.
+Select the maturity level for the content and chosen profiles.
+Click Save to apply the parental controls.
+
+Amazon Prime Video
+
+Go to Settings in your Amazon Prime Video account.
+Navigate to Parental Controls.
+Enable

@@ -1,0 +1,22 @@
+Step 3: Wait for 30 seconds.
+
+            - This waiting period allows the device to fully reset and discharge any remaining power.
+
+Step 4: Plug the device back in.
+
+            - Reconnect the power cable to the outlet or power strip.
+
+Step 5: Turn the device back on.
+
+            - Press the power button to restart the device.
+
+Step 6: Check for connectivity.
+
+            - Ensure the device is functioning properly and that connectivity issues are resolved.
+
+
+Important Tips
+
+Make sure to save any work before power cycling a device to avoid data loss.
+If the issue persists after power cycling, customers may need to check cables and connections or contact QuickConnect support for further assistance.
+Always refer to the device's user manual for specific power cycling instructions if available.

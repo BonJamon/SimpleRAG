@@ -1,0 +1,54 @@
+Step-by-Step Resolution of Common Issues
+
+
+
+Issue
+Steps to Resolve
+
+
+
+
+Router/Modem Issues
+
+
+Power cycle the router/modem.
+Check all cable connections.
+Perform a factory reset if necessary.
+Guide the customer to configure the device if reset.
+
+
+
+
+Interference from Other Devices
+
+
+Identify any potential interfering devices (e.g., microwaves, cordless phones, baby monitors).
+Move router/modem away from these devices.
+
+
+
+
+Outdated Firmware/Software
+
+
+Check the current firmware/software version.
+Guide the customer through updating the firmware/software.
+
+
+
+
+Network Congestion
+
+
+Advise the customer to limit bandwidth-heavy activities during peak hours.
+Discuss upgrading their plan if consistent congestion occurs.
+
+
+
+
+
+Troubleshooting Tips
+
+Advise customers to place their routers in central locations to ensure even coverage.
+Encourage the use of Ethernet cables for critical devices to reduce wireless workload.
+Suggest upgrading to dual-band or tri-band routers to avoid interference on the

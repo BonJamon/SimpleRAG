@@ -1,0 +1,23 @@
+Go to the TV's network settings and select the appropriate Wi-Fi network.
+Double-check that the correct password is being used—uppercase and lowercase letters matter.
+Forget the Wi-Fi network and reconnect using the proper credentials.
+Move the router closer to the TV or use a Wi-Fi extender to improve signal strength.
+
+2. Frequent Disconnections
+If the Smart TV frequently disconnects from the network, try the following:
+
+Ensure no other devices are causing interference (e.g., cordless phones, microwaves).
+Change the Wi-Fi channel on the router to a less crowded one.
+Check for any available firmware updates for the router and the Smart TV.
+Consider using a wired Ethernet connection for a more stable connection.
+
+3. Poor Signal Strength
+Improve the signal strength with these steps:
+
+Reposition the router to a central location.
+Avoid placing the router near thick walls or metal objects.
+Use a Wi-Fi range extender to boost the signal in the TV's location.
+Check for any physical damage to the router or TV's Wi-Fi antenna.
+
+4. Smart TV Apps Issues
+If Smart TV

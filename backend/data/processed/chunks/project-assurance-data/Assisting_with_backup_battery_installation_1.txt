@@ -1,0 +1,41 @@
+QuickConnect Home Hub
+Yes
+
+
+
+3. Installation Steps
+
+Ensure your device is powered off.
+Locate the battery compartment (refer to your device manual if needed).
+Insert the backup battery into the compartment, ensuring correct polarity (+/-).
+Secure the battery cover back in place.
+Power on your device and check for any battery status indicators.
+
+Troubleshooting Tips
+Common Issues and Solutions
+
+
+
+Issue
+Solution
+
+
+
+
+Device does not power on with battery
+Check the battery installation for correct polarity and secure connections.
+
+
+Battery status indicator shows low charge
+Ensure the battery is fully charged by connecting the device to a power source for at least 4 hours.
+
+
+Battery compartment cover does not close properly
+Make sure the battery is positioned correctly and not obstructing the cover.
+
+
+
+Contact QuickConnect Support
+If the problem persists or you need further assistance, please contact QuickConnect Support:
+
+Phone

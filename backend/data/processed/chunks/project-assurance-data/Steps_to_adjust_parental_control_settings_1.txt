@@ -1,0 +1,25 @@
+Step 5: Set Time Restrictions
+
+Navigate to the "Time Schedule" option within the Parental Control menu.
+Set the permissible internet access hours for different devices connected to the network.
+
+Step 6: Save Settings and Apply Changes
+
+After customizing your preferences, click on Save or Apply to implement your settings.
+
+
+
+Note: The interface and options may vary slightly depending on the make and model of your router.
+
+    
+
+
+
+Common Router Models
+Default Login URL
+Default Credentials
+
+
+
+
+Net

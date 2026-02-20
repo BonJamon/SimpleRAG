@@ -1,0 +1,29 @@
+Frequently Asked Questions
+
+
+
+Question
+Answer
+
+
+
+
+What kind of internet connection is required for VoIP?
+A stable broadband connection with sufficient bandwidth is required. Typically, a minimum of 100 kbps per concurrent call is recommended.
+
+
+Can I keep my existing phone number?
+Yes, in most cases, you can port your existing phone number to a VoIP service.
+
+
+Is VoIP secure?
+VoIP services use encryption and other security measures to protect your calls. It's also important to use a secure and reliable internet connection.
+
+
+
+Highlighting VoIP Features
+
+Auto Attendant: Automated systems to route calls to the appropriate person or department.
+Call Recording: Record calls for training, compliance, or quality assurance purposes.
+Virtual Numbers: Have a local number in different regions to appeal to broader audiences without physical presence.
+Unified Communications: Integrate with other communication tools such as instant messaging and video

@@ -1,0 +1,18 @@
+Basic checks:
+
+                
+Ensure the device is directly connected via Ethernet or has a strong Wi-Fi signal.
+Close other applications or devices that might be using bandwidth.
+
+
+Reboot the streaming device and router/modem.
+Adjust streaming quality settings within the service’s app.
+If the problem persists, consider contacting the streaming service's support team for further assistance.
+
+
+
+Frequently Asked Questions (FAQs):
+
+Q: What internet speed is required for HD streaming?A: For HD streaming, a minimum of 5 Mbps is recommended.
+Q: Why does my streaming service keep buffering?A: Buffering can occur due to a slow internet connection, network congestion, or being too far from the Wi-Fi router.
+Q: How can I improve Wi-Fi signal strength?A: Move closer to the router, remove physical obstructions, and

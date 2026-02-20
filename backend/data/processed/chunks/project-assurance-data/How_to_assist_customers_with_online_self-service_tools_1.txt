@@ -1,0 +1,21 @@
+3. Using the Speed Test Tool
+
+Access the tool at quickconnect.com/speedtest.
+Recommend that customers connect their device directly to the modem via an Ethernet cable for the most accurate results.
+Instruct customers to click "Start Test" and wait for the results. They can see their download and upload speeds and some basic diagnostics.
+If issues are detected, suggest restarting the modem and running the test again.
+
+4. Checking the Outage Map
+
+Navigate to the Outage Map at quickconnect.com/outagemap.
+Customers can enter their address or ZIP code to check for any reported outages in their area.
+If there is an ongoing outage, the map will provide an estimated time of resolution.
+For unreported issues, customers can use the map to report a new outage by clicking 'Report Outage'.
+
+5. Benefits of Using Online Self-Service Tools
+
+Convenience: Customers can manage their accounts anytime without needing to call customer service.
+Speed: Common issues and tasks can be resolved more quickly through self-service tools.
+Transparency: Tools like the Outage Map provide real-time information about service issues and resolutions.
+
+    </

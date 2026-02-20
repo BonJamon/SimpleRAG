@@ -1,0 +1,26 @@
+IP and DNS Settings:
+
+Guide the customer to check their IP and DNS settings:
+
+                    
+On Windows: Go to Network and Sharing Center > Change adapter settings > Right-click on the network connection > Properties > IPV4 > Properties.
+On macOS: Apple menu > System Preferences > Network > Select the connection > Advanced > TCP/IP tab.
+
+
+Ensure the IP is set to "Obtain an IP address automatically" and DNS is set to "Obtain DNS server address automatically".
+
+
+Run Diagnostics:
+
+For Windows: Instruct the customer to run the Network Troubleshooter by navigating to Settings > Network & Internet > Status > Network troubleshooter.
+For macOS: Guide the customer to use the built-in network diagnostics tool accessible from the Network preferences.
+
+
+Modem Factory Reset:
+
+If the issue persists, instruct the customer on how to perform a factory reset of the modem:
+
+                    
+Locate the reset button on the modem.
+Press and hold the button for 10-15 seconds.
+Allow the modem to reset and reinitialize.

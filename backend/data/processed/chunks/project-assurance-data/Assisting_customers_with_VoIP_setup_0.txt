@@ -1,0 +1,24 @@
+QuickConnect Customer Service: VoIP Setup Guide
+
+
+
+
+QuickConnect Customer Service: VoIP Setup Guide
+Welcome to the comprehensive guide on assisting customers with VoIP (Voice over Internet Protocol) setup. This document will provide detailed steps and tips to help you support our customers efficiently.
+1. Pre-Setup Checklist
+
+Ensure the customer has a stable internet connection.
+Verify the customer has a compatible VoIP phone or adapter.
+Have the customer's QuickConnect account information ready.
+Ensure that the customer's router and modem are functioning correctly.
+Check if the necessary cables and connectors are available.
+
+2. Setting Up VoIP Hardware
+2.1 Connecting the VoIP Phone
+
+Plug the Ethernet cable into the Ethernet port on the VoIP phone.
+Connect the other end of the Ethernet cable to an available LAN port on the customer's router.
+Connect the power adapter to the VoIP phone and plug it into a power outlet.
+Wait for the VoIP phone to initialize and display readiness for configuration.
+
+2.2 Using a VoIP Adapter

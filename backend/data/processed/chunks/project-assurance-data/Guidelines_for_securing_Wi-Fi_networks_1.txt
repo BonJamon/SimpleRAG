@@ -1,0 +1,50 @@
+Detailed Instructions
+
+
+Action
+Description
+Steps
+
+
+Change Default SSID & Password
+Changing the SSID and password helps prevent unauthorized access using default credentials.
+
+
+Access your router's admin interface (typically by entering the router's IP address in a web browser).
+Log in with the admin username and password.
+Navigate to the Wi-Fi settings and change the SSID to a unique name.
+Change the Wi-Fi password to a strong, unique password.
+
+
+
+
+Enable Network Encryption
+Using strong encryption methods like WPA3 or WPA2 protects network data from eavesdropping.
+
+
+Access the router's admin interface.
+Go to Wireless Settings and select WPA3 or WPA2 encryption.
+Save the settings.
+
+
+
+
+Disable WPS
+Turning off Wi-Fi Protected Setup prevents easy brute-force attacks on your network.
+
+
+Access the router's admin interface.
+Find WPS settings and disable the functionality.
+Save the settings.
+
+
+
+
+Keep Firmware Updated
+Regular updates ensure that the router has the latest security patches.
+
+
+Check the manufacturer's website for firmware updates.
+Download the latest firmware version.
+Access the router's admin interface and update the firmware through the update section.
+Follow any additional instructions

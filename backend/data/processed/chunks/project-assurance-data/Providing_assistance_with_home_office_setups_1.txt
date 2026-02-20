@@ -1,0 +1,27 @@
+5. Secure the Network
+Advise on security settings such as WPA3 encryption and unique passwords to protect the customer’s network.
+
+
+6. Test and Troubleshoot
+Guide the customer through running speed tests and troubleshooting any connectivity issues that arise.
+
+
+7. Provide Continuous Support
+Offer information on how to contact QuickConnect support for ongoing assistance and regular updates.
+
+
+
+Tips for an Effective Home Office Setup
+
+
+Upgrade Equipment: Modern routers and modems can provide better speed and reliability. Recommend equipment that supports the latest Wi-Fi standards.
+Positioning: Place the router in a central location, away from obstructions and other electronic devices that might cause interference.
+Network Extenders: For larger homes, suggest Wi-Fi extenders or mesh networks to improve coverage.
+Device Management: Advise customers to limit the number of connected devices or allocate bandwidth to critical devices.
+Regular Updates: Ensure firmware for all devices is up to date to benefit from the latest security patches and performance improvements.
+
+
+
+
+
+        <

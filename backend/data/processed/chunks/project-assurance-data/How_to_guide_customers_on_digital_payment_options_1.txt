@@ -1,0 +1,42 @@
+Specific Payment Methods Assistance:
+
+
+Credit/Debit Card:
+
+Verify the card number, expiration date, CVV, and billing address.
+Advise the customer to contact their bank if the payment is declined.
+
+
+
+Bank Transfer:
+
+Provide the customer with QuickConnect’s bank details.
+Inform the customer that bank transfers may take a few business days to process.
+
+
+
+Wallets:
+
+Ensure the customer's wallet account is verified and linked to QuickConnect.
+Check if the wallet service is experiencing outages.
+
+
+
+Mobile Payment Services:
+
+Ensure the customer's mobile app is updated to the latest version.
+Instruct the customer to verify their account within the app.
+
+
+
+Cryptocurrencies:
+
+Provide the customer with the appropriate QuickConnect wallet address for the specific cryptocurrency.
+Inform the customer about potential transaction confirmation delays on the blockchain.
+
+
+
+
+
+Escalation:
+If the issue persists after basic troubleshooting

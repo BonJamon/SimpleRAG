@@ -1,0 +1,13 @@
+Important Tips
+
+Always verify the customer's identity before making any changes to their account.
+Document all actions taken in the customer's support ticket for future reference.
+Never request or record the customer's password for security reasons.
+
+Contacting Technical Support
+If you've followed all troubleshooting steps and the customer's login issue remains unresolved, escalate the case to technical support. Provide them with the customer's details and a summary of the steps you've taken so far.
+Resources for Customers
+Direct customers to the following resources for additional help:
+
+Frequently Asked Questions
+How-to Videos

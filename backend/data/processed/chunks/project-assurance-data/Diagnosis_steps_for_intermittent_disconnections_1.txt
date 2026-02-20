@@ -1,0 +1,28 @@
+Analyze Signal Strength
+
+Use the system tools to check the signal strength and interference levels.
+Advise the customer to relocate their modem/router for better signal strength, if necessary.
+
+
+ Monitor Network Traffic
+
+Determine if multiple devices are causing network congestion.
+Suggest disconnecting some devices temporarily to see if stability improves.
+
+
+ Review Customer Equipment
+
+Check if the customer's equipment (modem, router) is functioning correctly.
+Suggest rebooting the modem or potentially trying a different one if available.
+
+
+
+Escalation Procedure
+If the issue persists after performing the above steps, escalate the issue according to the following procedure:
+
+Gather all relevant information and document it in the customer's file.
+Explain to the customer that the issue will be escalated to a higher technical support level.
+Create a detailed service ticket and forward it to the technical support team.
+Inform the customer of the expected follow-up time.
+
+By following these steps, you help ensure a

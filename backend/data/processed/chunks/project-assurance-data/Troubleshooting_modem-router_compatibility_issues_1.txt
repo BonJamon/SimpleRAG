@@ -1,0 +1,49 @@
+Update Firmware
+
+Check if there are firmware updates available for both the modem and the router.
+Guide the customer through updating the firmware if necessary.
+
+
+Restart Devices
+
+Instruct the customer to power cycle the modem by unplugging it, waiting 30 seconds, and plugging it back in.
+Do the same for the router after the modem has restarted.
+
+
+Check Router Settings
+
+Ensure that the router’s WAN settings are set to acquire an IP address automatically (DHCP).
+If using a static IP, verify that the settings are correct as provided by QuickConnect.
+
+
+Perform a Reset
+
+If the issue persists, guide the customer through performing a factory reset of both the modem and router.
+After the reset, reconfigure the devices as per QuickConnect instructions.
+
+
+Escalate the Issue
+
+If all steps fail, escalate the issue to the technical support team for advanced troubleshooting.
+
+
+
+Compatibility Chart
+Refer to this chart for known compatible modem-router combinations:
+
+
+
+Modem Model
+Router Model
+Notes
+
+
+
+
+QuickConnect-QC1234
+QuickConnect-Router345
+Full compatibility, recommended for highest speeds
+
+
+QuickConnect-QC5678
+QuickConnect-Router789</

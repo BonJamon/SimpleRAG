@@ -1,0 +1,34 @@
+Update Software and Hardware
+Ensure that the customer's device and all relevant software are up to date.
+
+Check for firmware updates for the router.
+Update the streaming app or browser.
+
+
+Relocate Equipment
+Move the router to a central location or closer to the device experiencing issues.
+
+Avoid placing the router near thick walls or electronic devices that might cause interference.
+
+
+Check for Throttling
+Confirm if the customer's ISP is throttling the connection.
+
+Contact the ISP for information or suggest the customer upgrade their service plan.
+
+
+Contact Technical Support
+If the issue persists, escalate the problem to QuickConnect's technical support team.
+
+Provide detailed information about the steps already taken.
+
+
+
+Reference Table for Internet Speed Requirements
+
+
+Activity
+Minimum Required Speed
+
+
+Streaming SD

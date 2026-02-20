@@ -1,0 +1,39 @@
+4. Check for App Permissions
+
+Ensure the necessary permissions are granted for the app. 
+
+                        
+On Android: Go to Settings > Apps > [App Name] > Permissions.
+On iOS: Go to Settings > [App Name].
+
+
+
+
+
+5. Update Device Software
+
+Ensure that the device’s software is up to date:
+
+                        
+On Android: Settings > System > Software Update.
+On iOS: Settings > General > Software Update.
+
+
+
+
+
+
+Contact Support
+If the above steps do not resolve the issue, please gather the following information before contacting support:
+
+
+Information Required
+Description
+
+
+Device Model
+The model of the smartphone or tablet (e.g., iPhone 12, Samsung Galaxy S21).
+
+
+Operating System
+The current version of the operating

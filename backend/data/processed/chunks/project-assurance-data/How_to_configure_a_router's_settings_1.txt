@@ -1,0 +1,42 @@
+Username
+Password
+
+
+admin
+admin
+
+
+admin
+password
+
+
+user
+user
+
+
+
+If the default credentials do not work, suggest that the customer reset the router to its factory settings by pressing and holding the reset button for 10-15 seconds.
+
+3. Configuring Basic Settings
+
+Once logged in, navigate to the "Basic Setup" or "Quick Setup" section.
+Update the following settings:
+
+            
+Network Name (SSID): Change the Wi-Fi network name to a preferred name for easy identification.
+Password: Set a strong password for the Wi-Fi network. It should include a mix of letters, numbers, and special characters.
+Security Mode: Ensure the security mode is set to WPA2 for optimal security.
+
+
+Save the changes by clicking the "Save" or "Apply" button.
+
+4. Advanced Configurations (Optional)
+If customers need to make advanced configurations, guide them through the following as needed:
+
+Port Forwarding: Navigate to the port forwarding section and enter the required information for forwarding specific ports.
+QoS Settings: Help prioritize certain types of traffic to improve performance for specific applications or devices.
+Parental Controls: Set up restrictions on internet usage for certain devices.
+
+5. Troubleshooting Common Issues
+
+Unable to Access Router Login

@@ -1,0 +1,45 @@
+QuickConnect - Guidelines for Initiating Service Transfers
+
+
+
+
+Guidelines for Initiating Service Transfers
+
+Note: Service transfers are the process by which a current QuickConnect service plan is moved from one location to another or from one customer to another. These should be handled with care to ensure seamless continuity of service.
+
+        
+Types of Service Transfers
+
+Residential Transfer: Moving services from one residential address to another.
+Business Transfer: Transferring services from one business address to another.
+Customer Transfer: Changing ownership of the service from one customer to another.
+
+Steps for Initiating a Service Transfer
+
+Customer Verification: Verify the identity of the customer requesting the transfer. Ensure they have the necessary permissions and that their account is in good standing.
+Collect Transfer Details: Gather all relevant information including:
+
+                
+Current and new service addresses
+Preferred transfer date
+Contact information of new customers (if applicable)
+
+
+Check for Service Availability: Confirm that QuickConnect services are available at the new location.
+Schedule the Transfer: Coordinate a date and time for the service transfer, keeping in mind the customer’s preferred date.
+Service Confirmation: Inform the customer about the transfer details and confirm the service transfer appointment.
+Installation and Setup: Ensure that all technical setups and installations are completed on the scheduled date.
+Follow-Up: Contact the customer post-transfer to ensure everything is working as expected and address any issues promptly.
+
+Common Issues and Solutions
+
+
+
+Issue
+Solution
+
+
+
+
+Service Not Available at New Location
+Check for alternative solutions or offer the customer different service options available in the area.

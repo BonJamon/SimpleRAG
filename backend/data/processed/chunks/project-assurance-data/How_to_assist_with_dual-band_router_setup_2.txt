@@ -1,0 +1,25 @@
+Step 4: Configure Wireless Settings
+
+For the 2.4 GHz band: 
+
+                
+Set the SSID (network name).
+Select a channel (auto or a less crowded one).
+Set the encryption method (WPA2-PSK is recommended).
+
+
+For the 5 GHz band: 
+
+                
+Set the SSID (network name) as well, preferably different from 2.4 GHz SSID.
+Select a channel.
+Set the same encryption method as the 2.4 GHz band.
+
+
+
+
+
+Step 5: Save and Reboot
+
+Save the settings.
+Re

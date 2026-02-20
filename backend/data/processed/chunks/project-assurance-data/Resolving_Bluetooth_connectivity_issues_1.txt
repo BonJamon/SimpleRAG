@@ -1,0 +1,21 @@
+5
+Interference Check
+
+Inform the customer to ensure there are no interfering devices (e.g. microwaves, Wi-Fi routers) near the Bluetooth devices.
+
+
+
+6
+Compatibility Check
+
+Verify if the devices are compatible with each other. Refer to the user's manual or the QuickConnect website for compatibility information.
+
+
+
+
+Advanced Solutions for Persistent Issues
+If the above steps do not resolve the issue, consider the following advanced solutions:
+
+
+Reset Network Settings
+Guide the customer on how to reset the network settings on their device. This will remove all network configurations including Wi-Fi and Bluetooth settings. Ensure they

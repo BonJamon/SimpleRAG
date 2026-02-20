@@ -1,0 +1,36 @@
+QuickConnect - Troubleshooting Slow Video Streaming
+
+
+
+
+QuickConnect - Troubleshooting Slow Video Streaming
+This document provides guidance on how to assist customers who are experiencing slow video streaming issues. Follow these steps to diagnose and resolve the problem efficiently.
+Steps to Troubleshoot Slow Video Streaming
+
+
+Check Internet Connection
+Ensure that the customer's internet connection is stable and meets the minimum speed requirements for video streaming.
+
+Ask the customer to perform a speed test at Speedtest.net.
+Verify that the download speed is at least 5 Mbps for HD streaming and 25 Mbps for 4K streaming.
+
+
+
+Router and Modem Status
+Check the status and performance of the router and modem.
+
+Ask the customer to restart their router and modem by unplugging them for 30 seconds and then plugging them back in.
+Ensure that the router firmware is up to date. Refer to the manufacturer's website for update instructions if needed.
+
+
+
+Reduce Network Congestion
+Identify and minimize other devices or applications that may be consuming significant bandwidth on the network.
+
+Ask the customer if other devices are streaming or downloading large files. If so, try pausing these activities.
+Recommend switching to a wired Ethernet connection if the customer is using Wi-Fi, as this can provide a more stable connection.
+
+
+
+Device Performance
+Ensure the customer's device is capable of streaming video efficiently.

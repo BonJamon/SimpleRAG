@@ -1,0 +1,40 @@
+QuickConnect Customer Support - Network Storage Setup Guide
+
+
+
+QuickConnect Customer Support Guide
+How to Assist with Network Storage Setup
+Introduction
+This guide provides step-by-step instructions for customer service agents to assist customers in setting up their network storage. Network storage allows users to store and access their data efficiently and securely across their network.
+Prerequisites
+
+A Network Storage Device (NAS) or similar storage device
+Active Network Connection
+Router with available Ethernet ports
+Admin rights to access network settings
+Login credentials for the network storage device
+
+Steps to Setup Network Storage
+
+Connect the Network Storage Device:
+
+Unbox the storage device and ensure all components are present.
+Connect the storage device to the router using an Ethernet cable.
+Plug in the power adapter and turn on the storage device.
+
+
+Access Network Storage Settings:
+
+Open a web browser on a device connected to the same network as the storage device.
+Enter the default IP address of the network storage device (usually found in the user manual).
+Log in using the default credentials (username: admin, password: password).
+
+
+Configure Network Settings:
+
+Navigate to the "Network" settings tab on the web interface.
+Assign a static IP address to the storage device (recommended for easy access).
+Save and apply the network settings.
+
+
+Create User Accounts and Shared Folders:

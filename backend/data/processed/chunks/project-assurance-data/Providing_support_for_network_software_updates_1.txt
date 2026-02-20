@@ -1,0 +1,44 @@
+Device Type
+Update Steps
+
+
+Router
+
+
+Log in to the router's admin panel.
+Navigate to the 'Firmware Update' section.
+Check for available updates and click 'Download'.
+Once the download is complete, click 'Install'.
+Wait for the router to restart and complete the update.
+
+
+
+
+Modem
+
+
+Access the modem settings through a connected device or its web interface.
+Go to the 'Software Update' section.
+Select 'Check for Updates'.
+If an update is available, follow the prompts to download and install it.
+Allow the modem to restart and finalize the update process.
+
+
+
+
+Mobile App
+
+
+Open the app and log in to your account.
+Go to 'Settings' or 'About' section.
+Select 'Check for App Update'.
+If an update is available, follow the on-screen instructions to update.
+Restart the app to complete the update.
+
+
+
+
+4. Troubleshoot Any Problems
+If the customer encounters any issues during the update process, use the following troubleshooting tips:
+
+Ensure the customer has a stable

@@ -1,0 +1,34 @@
+Example Overage Charge Calculation
+
+
+
+Plan
+Monthly Data Limit
+Used Data
+Overage Rate
+Total Overage Charge
+
+
+
+
+Basic Plan
+5 GB
+6.5 GB
+$10 per GB
+$15 (1.5 GB x $10)
+
+
+
+Tips to Avoid Future Overage Charges
+
+Monitor Data Usage: Use QuickConnect’s mobile app or website to regularly check data usage.
+Set Up Alerts: Enable notifications to alert when approaching data limits.
+Use Wi-Fi: Connect to Wi-Fi networks whenever possible to conserve mobile data.
+Upgrade Plan: Consider upgrading to a plan with a higher data limit if consistently exceeding the limit.
+
+Contacting Support
+If customers have questions about their data usage or overage charges, they can contact QuickConnect’s support team for assistance:
+
+Phone: 1-800-123-4567
+Email: support@quickconnect.com
+Live Chat: Available on our website

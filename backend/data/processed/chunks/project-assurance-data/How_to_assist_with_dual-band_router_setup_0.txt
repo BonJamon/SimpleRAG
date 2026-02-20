@@ -1,0 +1,26 @@
+Assisting with Dual-Band Router Setup - QuickConnect
+
+
+
+Assisting with Dual-Band Router Setup
+Overview
+Dual-band routers offer two separate frequencies for spreading Wi-Fi signals: 2.4 GHz and 5 GHz. The 2.4 GHz band covers a larger area but offers slower speeds, whereas the 5 GHz band covers a smaller area but provides faster speeds. Here's how to assist customers with setting up their dual-band routers.
+Preliminary Information
+Before diving into the setup process, make sure to gather the following details from the customer:
+
+Router model and brand
+Internet Service Provider (ISP) details
+Username and password for the router
+Type of internet connection (DSL, Fiber, Cable, etc.)
+
+Step-by-Step Setup Guide
+
+Step 1: Physical Connection
+
+Unbox the router and plug it into a power outlet.
+Connect the router to the modem using the Ethernet cable (connect the modem's LAN port to the router's WAN port).
+Wait for the router to power on completely (typically indicated by status LEDs).
+
+
+
+Step 2: Access Router's Web Interface

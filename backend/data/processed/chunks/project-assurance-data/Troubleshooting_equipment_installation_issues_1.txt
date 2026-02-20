@@ -1,0 +1,25 @@
+3. Device Not Recognized by Network
+
+Check if the device is within the Wi-Fi range.
+Make sure Wi-Fi is enabled on the device.
+Verify that the correct network SSID and password are being used.
+Restart the network device (modem/router).
+Attempt to connect other devices to the network; this helps determine if the issue is with the specific device.
+
+4. Cabling or Connection Issues
+
+Inspect all cables for any physical damage or wear.
+Ensure all Ethernet cables are securely plugged in.
+Replace any damaged cables.
+If using a splitter or adapter, verify that it is functioning correctly.
+Confirm that the connected devices are compatible with each other.
+
+Escalation Steps
+
+If initial troubleshooting steps do not resolve the issue, gather detailed information about the problem.
+Record the model and serial number of the equipment involved.
+Document any error messages or unusual indicator lights.
+Escalate the case to the technical support team with all collected information for further investigation.
+
+Notes
+Always handle equipment with care to avoid physical damage. Ensure you follow the

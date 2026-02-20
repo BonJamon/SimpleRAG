@@ -1,0 +1,6 @@
+Contacting Technical Support
+If the troubleshooting steps do not resolve the issue, guide the customer to contact QuickConnect's technical support for further assistance. Make sure they have the following information ready:
+
+Modem model and serial number.
+A detailed description of the issue.
+Status light information.</

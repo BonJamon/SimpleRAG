@@ -1,0 +1,18 @@
+QuickConnect Customer Service Documentation
+
+
+
+QuickConnect Customer Service Documentation
+Understanding How to Provide Network Health Reports
+Introduction
+Network Health Reports offer crucial insights into the performance and stability of a customer's telecommunications network. These reports help detect issues early, ensuring optimal network service performance. This guide will help you understand how to provide these reports effectively.
+Steps to Generate a Network Health Report
+
+Access the Customer’s Account: Login to the QuickConnect admin dashboard and navigate to the customer's account details.
+Navigate to the Network Health Section: Click on the 'Network Health' tab to access the network performance analytics.
+Select the Time Frame: Choose the time interval for which the report needs to be generated (e.g., last 24 hours, last week, last month).
+Generate the Report: Click on the 'Generate Report' button. This may take a few moments depending on the data volume.
+Download or Email the Report: Once generated, the report can be downloaded as a PDF or sent directly to the customer's email.
+
+Components of a Network Health Report
+A Network Health Report typically includes the following components:

@@ -1,0 +1,32 @@
+Connection Issues
+
+
+Verify the internet connection is stable.
+Check for network issues or outages.
+Restart the router or modem.
+Close other bandwidth-intensive applications.
+Connect using a wired connection if possible.
+Update the conferencing application to the latest version.
+
+
+
+
+Screen Sharing Problems
+
+
+Ensure the screen sharing feature is enabled in the settings.
+Verify that the appropriate screen or application window is selected.
+Check permissions to allow screen sharing.
+Close other applications that might interfere with screen sharing.
+Update the conferencing tool and graphics drivers.
+Restart the application.
+
+
+
+
+
+Additional Tips
+
+Ensure the customer uses the latest version of the video conferencing tool.
+Advise the customer to use a headset for better audio quality.
+Keep an eye on system

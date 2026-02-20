@@ -1,0 +1,9 @@
+Note: If these basic steps do not resolve the issue, proceed to the specific troubleshooting steps below based on the experienced problem.
+
+        
+Troubleshooting Specific Issues
+No Dial Tone
+
+Ensure the handset is properly connected to the base unit.
+Check if the phone is set to “Do Not Disturb” mode and disable it if active.
+Verify the phone’s

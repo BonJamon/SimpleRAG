@@ -1,0 +1,25 @@
+Call Summary
+Breakdown of all calls made, received, and missed, including duration and cost per call.
+
+
+Data Usage
+Detailed information on data consumption, distinguishing between cellular and Wi-Fi usage (if available).
+
+
+SMS Summary
+Total number of SMS messages sent and received, including any applicable charges.
+
+
+Additional Services
+Charges and usage related to any additional services, such as international calls or roaming.
+
+
+
+Frequently Asked Questions
+
+How can I view my monthly usage report? Customers can access their monthly usage reports through the QuickConnect website or mobile app under the 'Usage' section.
+Why does my usage report show charges for services I didn’t use? Verify if any third-party services might have been subscribed to inadvertently. Assist the customer in checking and disputing any discrepancies with the billing department.
+How can I minimize my data usage? Suggest the customer monitor their app usage, utilize Wi-Fi when available, and consider tweaking their phone settings to limit background data consumption.
+What should I do if I notice errors in my report? Advise the customer to contact QuickConnect customer support for a detailed review and potential rectification of any errors.
+
+Best Practices for Explaining Reports

@@ -1,0 +1,25 @@
+Set Up a Guest Network
+Create a separate guest network for visitors to prevent unauthorized access to the main network.
+
+
+
+Firewall and Antivirus Configuration
+
+Enable and Configure Firewalls: Ensure that both hardware and software firewalls are enabled and properly configured to block unauthorized access.
+Install Reliable Antivirus Software: Recommend customers install a reputable antivirus solution and keep it up-to-date to detect and remove malware.
+
+Monitoring and Incident Response
+
+Encourage regular monitoring of network activity for any unusual behavior.
+Advise customers to set up alerts for potential security incidents.
+Have a clear incident response plan in place, including steps for containing breaches and recovering data.
+
+Additional Resources
+For more detailed guidance on network security, here are some useful resources:
+
+CISA Cybersecurity
+NIST Cybersecurity Framework
+Get Safe Online
+
+Contact Information
+If you require further assistance or have any questions regarding network security, please contact the QuickConnect support team at:</

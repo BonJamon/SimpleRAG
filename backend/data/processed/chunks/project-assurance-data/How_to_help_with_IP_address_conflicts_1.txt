@@ -1,0 +1,27 @@
+Mac
+
+
+Open Terminal: Go to Applications > Utilities > Terminal.
+Type ifconfig and press Enter.
+Find the en0 or Wi-Fi section and check the IP address.
+
+
+
+
+Mobile (iOS/Android)
+
+
+Go to Wi-Fi settings.
+Find the connected network and look for the IP address details.
+
+
+
+
+
+3. Resolving IP Address Conflicts
+Once confirmed, guide the customer through the following steps to resolve the IP conflict:
+
+Renew the IP Address:
+
+Windows: Type ipconfig /release followed by ipconfig /renew in the Command Prompt.
+Mac: Go to System Preferences > Network, select the network, and click Advanced > Renew DHCP

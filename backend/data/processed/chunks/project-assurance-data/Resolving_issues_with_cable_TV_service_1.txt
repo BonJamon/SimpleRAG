@@ -1,0 +1,30 @@
+Verify the customer's subscription package.
+Ensure the channels are not blocked or skipped in the channel list settings.
+Confirm the service provider has not removed the channels from their lineup.
+
+
+
+
+Pixelated or Distorted Picture
+
+
+Weak or unstable signal
+Faulty cables or connections
+
+
+
+
+Check all cable connections and ensure they are secure and undamaged.
+Attempt to relocate the cable box to reduce potential interference.
+Reset the cable box by unplugging it for 30 seconds and then plugging it back in.
+
+
+
+
+
+General Troubleshooting Steps
+
+Restart the cable box: Unplug the cable box power cord from the electrical outlet, wait 30 seconds, and then plug it back in. Allow a few minutes for the box to reboot.
+Check the remote control: Ensure the remote batteries are fresh and that the remote is properly paired with the cable box.
+Inspect cable connections: Check all cables (HDMI, coaxial, etc.) for loose or damaged connections. Replace any damaged cables.
+Verify the signal strength: If the signal is weak, consider using a signal booster or contacting the service provider to inspect

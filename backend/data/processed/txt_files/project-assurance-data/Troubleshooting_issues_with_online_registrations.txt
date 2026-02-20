@@ -1,0 +1,74 @@
+
+
+
+
+
+QuickConnect - Troubleshooting Online Registration Issues
+
+
+
+
+QuickConnect Customer Support
+Troubleshooting Online Registration Issues
+
+
+
+Overview
+This document provides customer service agents with a comprehensive guide to troubleshooting common issues customers might encounter during online registration for the QuickConnect services.
+Common Issues and Solutions
+
+
+Issue
+Possible Cause
+Solution
+
+
+Error Message: "Email already in use"
+The email address is already associated with an existing account.
+Advise the customer to use a different email address or to reset their password if they have previously registered.
+
+
+Page Not Loading or Timing Out
+Poor internet connection or server issues.
+Ask the customer to check their internet connection and retry after some time. If the issue persists, escalate to the technical support team.
+
+
+Verification Email Not Received
+Email filters might be blocking the verification email, or the email address was entered incorrectly.
+Suggest the customer to check their spam/junk folder, ensure the email address is correct, and resend the verification email.
+
+
+Step-by-Step Troubleshooting Guide
+
+Verify Customer Details:
+                    
+Confirm the customer's full name, email address, and contact number.
+Check for any spelling errors or incorrect information.
+
+
+Technical Checks:
+                    
+Ensure the customer's device meets the minimum system requirements.
+Advise customers to try an alternative browser or clear their browser cache.
+
+
+Account Verification:
+                    
+Guide the customer through the email verification process step-by-step.
+If needed, escalate the issue to the account management team for further verification.
+
+
+
+Contacting Technical Support
+If the customer continues to experience issues after following the troubleshooting steps, please gather the necessary details and escalate the issue to our technical support team.
+Information to Collect:
+
+Customer's Name
+Email Address
+Contact Number
+Detailed description of the issue
+Screenshots of any error messages (if available)
+
+Contact Technical Support via:
+
+Internal Support Portal: http://support.quickconnect.com

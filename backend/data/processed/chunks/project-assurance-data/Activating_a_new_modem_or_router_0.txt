@@ -1,0 +1,39 @@
+Activating a New Modem or Router - QuickConnect
+
+
+
+Activating a New Modem or Router
+Welcome to the QuickConnect guide on how to assist customers in activating their new modem or router. Follow the steps below to ensure a smooth activation process.
+Steps to Activate a New Modem or Router
+
+
+Unbox and Connect the Device
+
+Ensure all components are present (modem/router, power adapter, cables).
+Connect the modem/router to a power source.
+Use the provided Ethernet cable to connect the modem/router to the computer.
+If activating a modem, connect the coaxial cable from the wall jack to the modem's coaxial port.
+
+
+
+Power Up and Wait for Initialization
+Turn on the modem/router and wait for it to go through its initialization process. This may take a few minutes. Look for indicator lights to turn solid or stop flashing.
+
+
+Access the Activation Page
+
+Open a web browser on the connected computer.
+Visit the QuickConnect activation page: http://activate.quickconnect.com.
+
+
+
+Follow On-Screen Instructions
+Follow the instructions provided on the activation page. You may need the following information:
+
+Account number
+Billing ZIP code
+MAC address of the modem/router (usually found on the device label)
+
+
+
+Verify Internet Connection

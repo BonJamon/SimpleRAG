@@ -1,0 +1,61 @@
+Steps for Activating eSIM Service - QuickConnect
+
+
+
+
+Steps for Activating eSIM Service
+Introduction
+Activating your eSIM service with QuickConnect is a straightforward process. This document will guide you through each step to ensure you have a seamless experience. Please follow the steps below carefully.
+Requirements
+
+An eSIM-compatible device.
+Access to a stable internet connection.
+Your QuickConnect account credentials.
+An active eSIM QR code provided by QuickConnect.
+
+Activation Steps
+
+
+
+Step
+Description
+
+
+
+
+Step 1
+Go to your device’s settings and select "Cellular" or "Mobile".
+
+
+Step 2
+Choose "Add Cellular Plan".
+
+
+Step 3
+Scan the provided eSIM QR code using your device’s camera.
+
+
+Step 4
+Follow the on-screen instructions to complete the setup.
+
+
+Step 5
+Once added, make sure to set the eSIM as your primary line or secondary line according to your needs.
+
+
+
+
+Note: Ensure that your device is updated to the latest software version to avoid any compatibility issues.
+
+        
+Troubleshooting
+
+If the eSIM QR code is not scanning, try cleaning your camera lens or increasing the brightness of your screen.
+If you encounter any errors during the setup, restart your device and attempt the process again.
+Ensure that you have a stable internet connection throughout the activation process.
+
+Contact Support
+
+If you face any issues that you cannot resolve, please contact QuickConnect support:
+
+Phone: 1-800-123-

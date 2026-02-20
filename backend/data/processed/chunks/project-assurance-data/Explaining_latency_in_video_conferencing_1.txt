@@ -1,0 +1,39 @@
+Impact of Latency
+
+
+
+Latency Range
+Perceived Impact
+
+
+
+
+0 - 150 milliseconds
+Low latency; generally not noticeable and does not affect communication.
+
+
+150 - 300 milliseconds
+Moderate latency; slight delay may be noticed but doesn't significantly affect conversation flow.
+
+
+300 - 600 milliseconds
+High latency; noticeable delay, which can impact the fluidity of conversation.
+
+
+> 600 milliseconds
+Very high latency; significant delay causing interruptions in communication, making it challenging to engage in effective conversation.
+
+
+
+Tips to Minimize Latency
+
+Use a Wired Connection: Whenever possible, use a wired connection instead of Wi-Fi to reduce network congestion.
+Upgrade Internet Plan: Ensure the customer has a high-speed internet plan suitable for video conferencing.
+Close Unnecessary Applications: Closing other applications that use bandwidth can help reduce latency.
+Update Software and Hardware: Keeping video conferencing software and hardware up-to-date ensures optimal performance.
+Position Near Router: If using Wi-Fi, advise the customer to be as close to the router as possible to minimize interference.
+
+How to Address Customer Concerns
+When a customer reports issues with latency, follow these steps:
+
+Listen to the customer's description of the

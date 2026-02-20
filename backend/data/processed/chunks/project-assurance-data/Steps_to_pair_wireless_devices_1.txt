@@ -1,0 +1,39 @@
+Verify the Connection:
+
+Some devices may require a passkey or code. Enter the code if prompted. Once the pairing is successful, a confirmation message should appear.
+
+
+
+Test the Connection:
+
+To ensure the devices are properly paired, test the functionality by playing audio, making a call, or accessing the wireless features of the paired device.
+
+
+
+Troubleshooting Tips
+
+
+
+Issue
+Solution
+
+
+
+
+Device not found
+Ensure the device is in pairing mode and within range. Restart both devices and try again.
+
+
+Incorrect passkey
+Double-check the passkey and ensure you enter it correctly. Some devices have a default passkey like "0000" or "1234".
+
+
+Connection drops
+Move the devices closer together, and ensure there are no obstacles or other devices causing interference. Restart the devices and try pairing again.
+
+
+
+Additional Resources
+
+QuickConnect Bluetooth Setup Guide
+QuickConnect Wi-Fi Setup Guide

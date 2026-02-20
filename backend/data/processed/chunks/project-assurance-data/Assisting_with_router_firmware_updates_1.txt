@@ -1,0 +1,29 @@
+Guide the customer to log in to their router's administrative interface, typically accessed via a web browser by entering the router’s IP address (e.g., 192.168.1.1).
+
+        
+Install the Firmware Update: 
+
+            Advise the customer to navigate to the firmware update section within the admin interface and upload the downloaded firmware file. They should follow any on-screen instructions to complete the update.
+
+        
+
+Common Issues and Troubleshooting
+
+
+Issue
+Possible Solution
+
+
+Router is not responding/became unresponsive
+Advise the customer to perform a reboot by unplugging the router, waiting for 30 seconds, and then plugging it back in. If the issue persists, suggest resetting to factory settings and reattempting the firmware update.
+
+
+Unable to access the router’s admin interface
+Check if the customer is connected to the router’s network. Verify the router’s IP address and ensure the customer is using the correct login credentials.
+
+
+Firmware update fails
+Ensure the customer has downloaded the correct firmware file for their router model. Verify that the file is not corrupted, and suggest re-downloading if necessary.
+
+
+Important Considerations

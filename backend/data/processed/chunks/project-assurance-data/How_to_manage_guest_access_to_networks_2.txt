@@ -1,0 +1,31 @@
+Common Issues and Troubleshooting
+
+
+
+Issue
+Possible Solution
+
+
+
+
+Cannot access router admin interface
+Ensure the customer is using the correct IP address and that the device is connected to the network. They should also verify the admin username and password.
+
+
+Guest network not visible
+Confirm that the guest network is enabled and the SSID broadcast is turned on. The customer may need to restart the router.
+
+
+Devices cannot connect to guest network
+Check the password is entered correctly. Ensure the router firmware is up to date. If problems persist, the customer may need to reset the router to default settings and reconfigure the guest network.
+
+
+
+Additional Recommendations
+
+Regular Updates: Advise customers to regularly check for and install firmware updates to keep their network secure and functional.
+Monitoring: Encourage customers to monitor guest network usage and adjust settings as needed to maintain network performance and security.
+Documentation: Suggest customers keep a record of their network settings including SSID, passwords, and special configurations.
+
+
+Note: Always ensure the customer's personal network settings and passwords are kept confidential and are not shared without permission.

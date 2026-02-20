@@ -1,0 +1,16 @@
+Open a web browser and enter the IP address of the VoIP phone or adapter. This information is usually provided in the device's manual.
+Log in using the default username and password. Common defaults are often "admin" for both fields.
+
+3.2 Entering SIP Account Details
+
+Navigate to the SIP settings section of the configuration interface.
+Enter the following details provided by QuickConnect:
+
+            
+SIP Server: sip.quickconnect.com
+SIP Username: [Customer's QuickConnect Username]
+SIP Password: [Customer's QuickConnect Password]
+Outbound Proxy: proxy.quickconnect.com (if applicable)
+
+
+Save the changes and restart the device if prompted.

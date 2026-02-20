@@ -1,0 +1,35 @@
+Restricting background data usage.
+Compressing images and videos.
+Reducing the quality of streaming media.
+
+
+Data Usage Reports: Viewing detailed reports on data usage per app or service.
+
+Common Customer Queries
+
+
+
+Query
+Resolution
+
+
+
+
+How can I check my data usage?
+Advise the customer to go to their device settings and look for "Data Usage" or "Mobile Data" options. They can view their current usage there. Alternatively, direct them to our QuickConnect App for detailed data reports.
+
+
+How do I set up data usage alerts?
+Guide them to the "Data Usage" settings on their mobile device, where they can set data limits and thresholds. Notifications will alert them as they approach their set data limit.
+
+
+What is Data Saver mode and how do I enable it?
+Explain that Data Saver mode reduces the amount of data used by restricting background activities and lowering multimedia quality. They can enable Data Saver mode from the "Data Usage" settings.
+
+
+Can I see which apps are using the most data?
+Yes, customers can view app-specific data usage in the "Data Usage" settings on their mobile devices. This helps identify any apps that might be consuming excessive data.
+
+
+
+Steps to Take If Data Usage is Exceeding Limits

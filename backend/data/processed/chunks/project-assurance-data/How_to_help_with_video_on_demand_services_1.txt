@@ -1,0 +1,27 @@
+Login Issues
+
+
+Verify the customer's username and password.
+Guide the customer through the password reset process if needed.
+Ensure the customer’s device and app are updated to the latest version.
+
+
+
+
+Basic Troubleshooting Steps
+
+Verify the customer's personal and account details.
+Check the customer's internet connection and speed.
+Ensure the device and application software are up to date.
+Restart the device and modem/router.
+Clear the application cache or reinstall the application.
+
+Contact Information for Further Support
+If the issue persists after performing the above steps, advise the customer to contact QuickConnect's specialized VoD support team:
+
+Phone: 1-800-123-4567
+Email: support@quickconnect.com
+Live Chat: Available on our website from 9 AM to 9 PM
+
+Additional Resources 
+For more detailed instructions and video tutorials, please visit our VoD Help Center.
