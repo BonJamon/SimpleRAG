@@ -1,7 +1,0 @@
-Important Considerations
-
-Advise customers to back up their current router settings before proceeding with the firmware update.
-Firmware updates should be performed with a stable power supply to avoid interruptions.
-Warn customers that firmware updates may reset the router to default settings, and they may need to reconfigure their network settings afterward.
-
-For any additional guidance on specific router

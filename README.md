@@ -1,4 +1,6 @@
-Basic QA utilizing RAG on technical support documentation. Based on FAISS, langchain and ragas for evaluation.
+Basic QA utilizing RAG on technical support documentation.  
+RAG is based on FAISS, langchain and ragas for evaluation.  
+The backend is based on FastAPI and uvicorn  
 
 Current performances on llm-generated test data using ragas:  
 Precision@3         |0.4  
