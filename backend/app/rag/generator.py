@@ -1,5 +1,5 @@
 from langchain_openai import ChatOpenAI
-from app.rag.templates import system_prompt, get_user_prompt
+from app.rag.templates import system_prompt_generator, get_user_prompt_generator
 from abc import ABC, abstractmethod
 from typing import List
 from langchain_core.documents import Document
@@ -12,15 +12,15 @@ class Generator(ABC):
         pass
         
 class GeneratorV1(Generator):
-    def __init__(self, logger, temperature=0.1, model_name="gpt-4o-mini"):
-        self.llm = ChatOpenAI(model=model_name, temperature=temperature, max_tokens=300, streaming=True)
+    def __init__(self, logger, temperature=0.1, model_name="gpt-4o-mini", max_tokens=500):
+        self.llm = ChatOpenAI(model=model_name, temperature=temperature, max_tokens=max_tokens, streaming=True)
         self.logger = logger
         
     
     async def generate_answer(self, query, docs):
         start_time =time.time()
-        messages = [("system", system_prompt),
-                    ("human", get_user_prompt(query,docs))]
+        messages = [("system", system_prompt_generator),
+                    ("human", get_user_prompt_generator(query,docs))]
         
         async for chunk in self.llm.astream(messages):
             if chunk.content:

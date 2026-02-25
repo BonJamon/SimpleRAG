@@ -1,4 +1,4 @@
-system_prompt = """You are a factual question-answering assistant.
+system_prompt_generator = """You are a factual question-answering assistant.
 
 Answer the question using only the provided context.
 
@@ -33,7 +33,7 @@ def construct_context(docs):
     return context
     
 
-def get_user_prompt(user_query, retrieved_documents):
+def get_user_prompt_generator(user_query, retrieved_documents):
     
     context = construct_context(retrieved_documents)
     user_prompt = f"""Question:
@@ -43,3 +43,21 @@ Retrieved Context:
 {context}
 Answer:"""
     return user_prompt
+
+
+
+
+system_prompt_standalone = """You are a standalone question generator that takes a question and previous conversation history 
+to generate a rephrased question that contains all necessary information to stand alone.
+
+Rules:
+- Make this question as short as possible without omitting relevant information
+"""
+
+def get_user_prompt_standalone(question, conversation):
+    return f"""Question: {question}
+
+
+Conversation history:
+{conversation}
+"""

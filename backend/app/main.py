@@ -7,6 +7,7 @@ from app.services.rag import RAG
 from app.rag.pipeline import Pipeline
 from app.rag.retriever import RetrieverV1
 from app.rag.generator import GeneratorV1
+from app.rag.standalone_question_generation import StandaloneQuestionGeneratorV1
 from app.models import Question
 from app.core.logging import LogConfig
 from structlog import BoundLogger
@@ -14,6 +15,7 @@ from structlog.contextvars import bind_contextvars, clear_contextvars
 from dotenv import load_dotenv
 import uuid
 import time
+import os
 
 load_dotenv()
 
@@ -21,11 +23,20 @@ logger = LogConfig().get_logger()
 logger = logger.bind(app="chatbot")
 app = FastAPI()
 
+#Initialize RAG
 retriever = RetrieverV1(k=2)
-generator = GeneratorV1(temperature=0.1, model_name="gpt-4o-mini", logger=logger)
+generator = GeneratorV1(temperature=0.1, model_name="gpt-4o-mini", logger=logger, max_tokens=500)
 pipeline = Pipeline(retriever, generator, logger=logger)
-rag = RAG(pipeline)
+standaloneQuestionGenerator = StandaloneQuestionGeneratorV1(model_name="gpt-4o-mini", temperature=0.3, logger=logger)
+rag = RAG(pipeline, standaloneQuestionGenerator)
 
+#Initialize Conversation Memory if not existent already
+session_dir = os.path.join("./data/session_data")
+if not os.path.exists(session_dir):
+    os.makedirs(session_dir)
+
+
+#Initialize Middleware
 origins = ["http://localhost"]
 app.add_middleware(CORSMiddleware,
                    allow_origins=["*"],
@@ -74,6 +85,7 @@ async def logging_middleware(request, call_next):
     return response
 
 
+#Dependencies
 def get_rag() -> RAG:
     return rag
 
@@ -81,6 +93,8 @@ def get_logger() -> BoundLogger:
     return logger
 
 
+
+#Routes
 @app.get("/")
 async def main():
     return {"message": "Hello World"}
@@ -88,6 +102,12 @@ async def main():
 
 @app.post("/question")
 async def generate_answer(question: Question, rag: RAG = Depends(get_rag), logger = Depends(get_logger)):
+    #Get question session id
+    session_id = question.session_id if question.session_id is not None else str(uuid.uuid4())
+    logger.bind(session_id=session_id)
     logger.info("request received", question_length=len(question.question))
-    return StreamingResponse(rag.stream_answer(question.question), media_type="text/event-stream")
+    #Get response
+    response = StreamingResponse(rag.stream_answer(question, session_id), media_type="text/event-stream")
+    response.headers["X-Session-ID"] = session_id
+    return response
 
