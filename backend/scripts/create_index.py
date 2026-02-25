@@ -5,7 +5,7 @@ from app.services.ingestion import Ingestion
 
 name = "project-assurance-data"
 
-ingest = Ingestion(chunk_size=300, overlap=100)
+ingest = Ingestion(chunk_size=500, overlap=100)
 ingest.create_index(name)
 
 

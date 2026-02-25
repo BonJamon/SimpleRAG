@@ -17,7 +17,7 @@ from app.rag.generator import Generator
 Performances per row
 """
 
-def get_retrieval_performance(true_context, retrieved_context,k):
+def get_retrieval_performance(true_context, retrieved_context):
     """
     Docstring for get_retrieval_performance
     
@@ -27,6 +27,7 @@ def get_retrieval_performance(true_context, retrieved_context,k):
     :returns: Dict containing performances
     """
     matches, first_hit = exact_match_retrieval(true_context, retrieved_context)
+    k = len(retrieved_context)
     performances = {}
     performances["precision"] = len(matches)/k
     performances["recall"] = len(matches)/len(true_context)
@@ -63,8 +64,7 @@ async def get_faithfullness(user_input, contexts, response):
 Evaluations of components
 """
 
-async def evaluate_retrieval(test_data,k):
-    retriever = Retriever(k)
+async def evaluate_retrieval(test_data,retriever):
     precisions= []
     recalls= []
     first_hits = []
@@ -74,7 +74,7 @@ async def evaluate_retrieval(test_data,k):
         retrieved_context = await retriever.retrieve_documents(user_input)
         #Evaluate each retrieval
         true_context = ast.literal_eval(test_data["reference_contexts"].loc[i])
-        performances = get_retrieval_performance(true_context, retrieved_context, k)
+        performances = get_retrieval_performance(true_context, retrieved_context)
         precisions.append(performances["precision"])
         recalls.append(performances["recall"])
         first_hits.append(performances["first_hit"])
@@ -94,24 +94,21 @@ async def evaluate_retrieval(test_data,k):
 
 
 
-async def evaluate_generation(test_data,k, temperature=0.1, model_name="gpt-4o-mini"):
+async def evaluate_generation(test_data,retriever:Retriever, generator:Generator):
     """
     Compute faithfulness, Rouge, BlEU
     
     :param test_data: test dataset
     :param k: retrieved results
     """
-    retriever = Retriever(k)
-    generator = Generator(temperature, model_name)
     faithfullnesses = []
     times_to_first_token = []
     total_times = []
     for i in range(len(test_data)):
         user_input = test_data["user_input"].loc[i]
-        docs = await Retriever.retrieve_documents(user_input, retriever, k)
-        docs_tuple= [(doc.id, doc.page_content) for doc in docs]
+        docs = await retriever.retrieve_documents(user_input)
         docs_text = [doc.page_content for doc in docs]
-        response, t1, t2, t3 = await catch_streaming_response(generator.generate_answer, user_input, docs_tuple, temperature, model_name)
+        response, t1, t2, t3 = await catch_streaming_response(generator.generate_answer, user_input, docs_text)
         f = await get_faithfullness(user_input, docs_text, response)
         faithfullnesses.append(f)
         times_to_first_token.append(t2-t1)
@@ -125,25 +122,23 @@ async def evaluate_generation(test_data,k, temperature=0.1, model_name="gpt-4o-m
     performances["total_time"] = sum(total_times) / len(total_times)
     return performances
 
-async def full_evaluation(test_data, k=3, temperature=0.1, model_name="gpt-4o-mini"):
+async def full_evaluation(test_data, retriever:Retriever, generator:Generator):
     nltk.download('punkt_tab')
-    retriever = Retriever(k)
-    generator = Generator(temperature, model_name)
     performances = {}
     for i in range(len(test_data)):
         t1 = time.time()
         #Retrieval
         user_input = test_data["user_input"].loc[i]
-        docs = await retriever.retrieve_documents(user_input,retriever, k)
+        docs = await retriever.retrieve_documents(user_input)
         #Generation
         docs_text = [doc.page_content for doc in docs]
-        response,t_startg,t_first_g,t_last_g = await catch_streaming_response(generator.generate_answer,user_input, docs_text, temperature, model_name)
+        response,t_startg,t_first_g,t_last_g = await catch_streaming_response(generator.generate_answer,user_input, docs_text)
         response_speed = time.time()-t1
         time_to_first_token = t_startg - t1
 
         #Get performances for query
         true_context = ast.literal_eval(test_data["reference_contexts"].loc[i])
-        performances_retrieval = get_retrieval_performance(true_context, docs, k)
+        performances_retrieval = get_retrieval_performance(true_context, docs)
         faithfulness = await get_faithfullness(user_input, docs_text, response)
 
         reference_tokenized = [nltk.word_tokenize(test_data["reference"].loc[i])]

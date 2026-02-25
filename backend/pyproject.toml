@@ -23,6 +23,7 @@ dependencies = [
     "rapidfuzz>=3.14.3",
     "rouge-score>=0.1.2",
     "sentence-transformers>=5.2.3",
+    "structlog>=25.5.0",
     "torch>=2.10.0",
     "transformers>=5.2.0",
     "uvicorn>=0.41.0",
