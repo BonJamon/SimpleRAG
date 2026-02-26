@@ -1,4 +1,4 @@
-Basic QA utilizing RAG on technical support documentation.  
+Basic Customer Chatbot utilizing RAG on technical support documentation.  
 RAG is based on FAISS, langchain and ragas for evaluation.  
 The backend is based on FastAPI and uvicorn  
 
