@@ -24,3 +24,9 @@ define flow check_harmful
   if $bot_harmful:
     bot respond_harmful
     stop
+
+define flow self check output
+  $bot_harmful = execute self check Output
+  if $bot_harmful:
+  bot respond_harmful
+  stop

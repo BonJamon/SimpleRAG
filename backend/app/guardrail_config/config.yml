@@ -1,13 +1,48 @@
+models:
+  - type: self_check_input
+    engine: openai
+    model: gpt-3.5-turbo-instruct
+  - type: self_check_output
+    engine: openai
+    model: gpt-3.5-turbo-instruct
+
 rails:
   input:
     flows:
-      - classify_and_route
+      - self check input $model=self_check_input
+      - jailbreak detection heuristics
+      - mask sensitive data on input
+      - injection detection
+
+    
   output:
     flows:
-      - check_harmful
+      - self check output $model=self_check_output
 
     streaming:
       enabled: True
       chunk_size: 20
       context_size: 5
       stream_first: False
+
+  config:
+    jailbreak_detection:
+      length_per_perplexity_threshold: 89.79
+      prefix_suffix_perplexity_threshold: 1845.65
+
+    injection_detection:
+      injections:
+        - sqli
+        - template
+        - code
+        - xss
+      action: reject
+
+sensitive_data_detection:
+  input:
+    entities:
+      - PERSON
+      - EMAIL_ADDRESS
+      - PHONE_NUMBER
+      - CREDIT_CARD
+    score_threshold: 0.2

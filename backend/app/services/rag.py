@@ -10,13 +10,17 @@ class RAG:
 
     
     async def stream_answer(self, question:Question, session_id:str):
-        #Construct standalone question (Relevant for follow up questions)
-        standalone_question = await self._construct_standalone_question(question)
-        #Generate answer
-        answer = ""
-        async for chunk in self.pipeline.stream_answer(standalone_question=standalone_question, original_question=question.question):
-            yield f"data: {chunk}\n\n"
-            answer += chunk
+        if len(question.question) > 300:
+            answer = "data: I'm sorry, but the question is too long. Please rephrase it.\n\n"
+            yield answer
+        else:
+            #Construct standalone question (Relevant for follow up questions)
+            standalone_question = await self._construct_standalone_question(question)
+            #Generate answer
+            answer = ""
+            async for chunk in self.pipeline.stream_answer(standalone_question=standalone_question, original_question=question.question):
+                yield f"data: {chunk}\n\n"
+                answer += chunk
         #Save answer
         save_conversation(question.question, answer, session_id)
 
