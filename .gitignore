@@ -1,2 +1,5 @@
 *.env
+backend/data/session_data
+backend/data/processed
+backend/data/vectorstore/*
 

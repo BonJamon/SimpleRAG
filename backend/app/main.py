@@ -12,6 +12,7 @@ from app.models import Question
 from app.core.logging import LogConfig
 from structlog import BoundLogger
 from structlog.contextvars import bind_contextvars, clear_contextvars
+from nemoguardrails import RailsConfig
 from dotenv import load_dotenv
 import uuid
 import time
@@ -21,11 +22,12 @@ load_dotenv()
 
 logger = LogConfig().get_logger()
 logger = logger.bind(app="chatbot")
+rails_config = RailsConfig.from_path("./app/guardrail_config")
 app = FastAPI()
 
 #Initialize RAG
 retriever = RetrieverV1(k=2)
-generator = GeneratorV1(temperature=0.1, model_name="gpt-4o-mini", logger=logger, max_tokens=500)
+generator = GeneratorV1(temperature=0.1, model_name="gpt-4o-mini", logger=logger, rails_config=rails_config, max_tokens=500)
 pipeline = Pipeline(retriever, generator, logger=logger)
 standaloneQuestionGenerator = StandaloneQuestionGeneratorV1(model_name="gpt-4o-mini", temperature=0.3, logger=logger)
 rag = RAG(pipeline, standaloneQuestionGenerator)
@@ -104,7 +106,7 @@ async def main():
 async def generate_answer(question: Question, rag: RAG = Depends(get_rag), logger = Depends(get_logger)):
     #Get question session id
     session_id = question.session_id if question.session_id is not None else str(uuid.uuid4())
-    logger.bind(session_id=session_id)
+    bind_contextvars(session_id=session_id)
     logger.info("request received", question_length=len(question.question))
     #Get response
     response = StreamingResponse(rag.stream_answer(question, session_id), media_type="text/event-stream")

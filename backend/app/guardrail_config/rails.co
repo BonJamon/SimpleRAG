@@ -1,0 +1,26 @@
+# -------- LLM-Based Intent Classification --------
+
+define bot respond_jailbreak
+  "I'm sorry. I can't respond to that."
+
+define bot respond_out_of_scope
+  "I'm a customer support assistant and can only help with support-related questions."
+
+define bot respond_harmful
+  "I am sorry, an error has occured."
+
+# LLM classifier
+define flow classify_and_route
+  $user_intent = execute classify_intent
+
+  if $user_intent == 'jailbreak_attempt'
+    bot respond_jailbreak
+    stop
+
+# -------- Output Enforcement --------
+
+define flow check_harmful
+  $bot_harmful = execute check_scope
+  if $bot_harmful:
+    bot respond_harmful
+    stop
